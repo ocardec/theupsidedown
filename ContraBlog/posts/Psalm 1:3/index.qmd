@@ -1,0 +1,13 @@
+---
+title: "Dead and Dry"
+# author: "OC"
+date: "2024-08-18"
+draft: false
+categories: [Psalm, water, desert]
+---
+
+### Dead and Dry
+
+"He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither."
+
+![](psalm13.jpeg){fig-align="center"}

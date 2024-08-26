@@ -1,0 +1,13 @@
+---
+title: "Covered Light"
+# author: "OC"
+date: "2024-08-17"
+draft: false
+categories: [Matthew, light, basket]
+---
+
+### Uncover the Light ...
+
+Because you don't light up a candle and then hide it
+
+![](matt515.jpeg){fig-align="center"}

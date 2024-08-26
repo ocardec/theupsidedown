@@ -1,0 +1,54 @@
+
+# Website settings:
+website: 
+  reader-mode: true
+  description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel." #a brief slogan (optional)
+  navbar:
+    pinned: true
+    collapse: true
+    # logo: img/ocfavicon.jpeg
+    
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "References"
+        href: references/index.qmd   
+        
+    # social media handles
+    right:
+      - icon: twitter
+        href: https://twitter.com/CardO37474
+      - icon: envelope
+        aria-label: email
+        href: "mailto:ocmain@gocardec.com"  
+        
+# Don't touch unless you know what you're doing :) ========================
+  search: 
+    location: navbar
+    type: textbox
+  page-footer:
+    left: |
+      <span class="faux-block"> &#169; Copyright Oscar Cardec </span>
+    center: |
+      <span class="faux-block"> <a href="https://chatgpt.com/g/g-OeyUtWwqz-navigate-the-way"> Powered by NTW✝️ V: 20240822 </a > </span>
+    right: |
+      <span class="faux-block"> Last Update: Aug 2024 </span>
+
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto
+    
+format:
+  html:
+    page-layout: article
+    fontsize: 1.1em
+    theme: flatly
+    css: styles.css
+    toc: false
+
+editor: visual
