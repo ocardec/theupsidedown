@@ -6,11 +6,11 @@ about:
 ---
 
 |                                        |                                                                                                                                                                                                              |
-|:---------|:---------------------------------|
-| ![](img/bibleapp.png){width="150"}     | [**YouVersion**](https://www.bible.com) \| A free Bible App equipped with more than 2,400 Bible version, and translated in over 1,600 languages.                                                             |
-| ![](img/bibleproject.png){width="150"} | [**BibleProject**](https://bibleproject.com) \| A nonprofit, crowdfunded organization that makes free resources to help people experience the Bible in a way that is approachable and transformative.        |
-| ![](img/faithtech.png){width="150"}    | [**FaithTech**](https://faithtech.com) \| A global tech community bridging the gap between Faith and Technology to help people in the tech ecosystem find community and steward their skills to glorify God. |
-| ![](img/ntw.png){width="150"}          | [**Navigate The Way**](https://www.navtheway.com) NTW is an AI-powered assistant created to support the spiritual growth and biblical understanding of its users.                                            |
-| ![](img/namb.png){width="150"}         | [**NAMB**](https://nambstore.com) \| The North American Mission Board invites you to participate making Jesus known in North America.                                                                        |
-| ![](img/imb.jpeg){width="150"}         | [**IMB**](https://www.imb.org) \| Global organization centered in taking the gospel to every nation, all tribes and peoples and languages on daily basis.                                                    |
-| ![](img/lc.png){width="300"}           | [**LC Open Network**](https://open.life.church) \| Free resources to reach the people in your community that God has called you to reach.                                                                    |
+|:-----------------|:-----------------------------------------------------|
+| ![](img/bibleapp.png){width="100"}     | [**YouVersion**](https://www.bible.com) \| A free Bible App equipped with more than 2,400 Bible version, and translated in over 1,600 languages.                                                             |
+| ![](img/bibleproject.png){width="100"} | [**BibleProject**](https://bibleproject.com) \| A nonprofit, crowdfunded organization that makes free resources to help people experience the Bible in a way that is approachable and transformative.        |
+| ![](img/faithtech.png){width="100"}    | [**FaithTech**](https://faithtech.com) \| A global tech community bridging the gap between Faith and Technology to help people in the tech ecosystem find community and steward their skills to glorify God. |
+| ![](img/ntw.png){width="100"}          | [**Navigate The Way**](https://www.navtheway.com) NTW is an AI-powered assistant created to support the spiritual growth and biblical understanding of its users.                                            |
+| ![](img/namb.png){width="100"}         | [**NAMB**](https://nambstore.com) \| The North American Mission Board invites you to participate making Jesus known in North America.                                                                        |
+| ![](img/imb.jpeg){width="100"}         | [**IMB**](https://www.imb.org) \| Global organization centered in taking the gospel to every nation, all tribes and peoples and languages on daily basis.                                                    |
+| ![](img/lc.png){width="100"}           | [**LC Open Network**](https://open.life.church) \| Free resources to reach the people in your community that God has called you to reach.                                                                    |

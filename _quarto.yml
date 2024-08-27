@@ -1,12 +1,13 @@
 
 # Website settings:
-website: 
+website:
   reader-mode: true
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel." #a brief slogan (optional)
+
   navbar:
-    pinned: true
+    pinned: false
     collapse: true
-    # logo: img/ocfavicon.jpeg
+    logo: img/ocfavicon.jpeg
     
     left:
       - text: "Home"
@@ -23,11 +24,12 @@ website:
       - icon: envelope
         aria-label: email
         href: "mailto:ocmain@gocardec.com"  
-        
+
 # Don't touch unless you know what you're doing :) ========================
   search: 
     location: navbar
     type: textbox
+    
   page-footer:
     left: |
       <span class="faux-block"> &#169; Cardec Solutions </span>
@@ -40,15 +42,14 @@ project:
   type: website
   output-dir: docs
 
-execute:
-  freeze: auto
-    
 format:
-  html:
+  html: 
     page-layout: article
     fontsize: 1.1 em
-    theme: flatly
-    css: styles.css
+    theme:
+      light: flatly
+      dark: darkly
+    css: html/styles.css
     toc: false
 
 editor: visual
