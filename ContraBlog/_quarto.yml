@@ -30,11 +30,11 @@ website:
     type: textbox
   page-footer:
     left: |
-      <span class="faux-block"> &#169; Copyright Oscar Cardec </span>
+      <span class="faux-block"> &#169; Cardec Solutions </span>
     center: |
-      <span class="faux-block"> <a href="https://chatgpt.com/g/g-OeyUtWwqz-navigate-the-way"> Powered by NTW✝️ V: 20240822 </a > </span>
+      <span class="faux-block"> <a href="https://www.navtheway.com"> Powered by NTW ✝ </a > </span>
     right: |
-      <span class="faux-block"> Last Update: Aug 2024 </span>
+      <span class="faux-block"> Aug 2024 </span>
 
 project:
   type: website
@@ -46,7 +46,7 @@ execute:
 format:
   html:
     page-layout: article
-    fontsize: 1.1em
+    fontsize: 1.1 em
     theme: flatly
     css: styles.css
     toc: false
