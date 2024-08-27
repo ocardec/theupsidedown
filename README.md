@@ -4,7 +4,7 @@ Welcome to The Upside-Down blog, a place where paradox and mystery come alive in
 
 <br/>
 
-![](img/cross2kingdom.jpeg){fig-align="center" width="400"}
+![](img/cross2kingdom.jpeg){fig-align="center" width="300"}
 
 <br/>
 
