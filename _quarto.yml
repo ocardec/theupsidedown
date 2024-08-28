@@ -4,6 +4,8 @@ website:
   reader-mode: true
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel." #a brief slogan (optional)
 
+  # margin-header: html/subscribe.html
+  
   navbar:
     pinned: false
     collapse: true
@@ -13,7 +15,12 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "About"
-        href: about.qmd
+        menu: 
+          - text: "Purpose"
+            href: about.qmd
+          - text: "Creator"
+            href: https://ocardec.github.io 
+            target: _blank
       - text: "References"
         href: references/index.qmd   
         
@@ -21,6 +28,7 @@ website:
     right:
       - icon: twitter
         href: https://twitter.com/CardO37474
+        target: _blank
       - icon: envelope
         aria-label: email
         href: "mailto:ocmain@gocardec.com"  
@@ -32,11 +40,11 @@ website:
     
   page-footer:
     left: |
-      <span class="faux-block"> &#169; Cardec Solutions </span>
+      <span class="faux-block"> &#169; Copyright 2024, Cardec Solutions </span>
     center: |
-      <span class="faux-block"> <a href="https://www.navtheway.com"> Powered by NTW ✝ </a > </span>
+      <span class="faux-block"> Powered by <a href="https://www.navtheway.com" target="_blank">Navigate The Way</a></span>
     right: |
-      <span class="faux-block"> Aug 2024 </span>
+      <span class="faux-block"> Website made with <a href="https://quarto.org" target="_blank">Quarto</a></span>
 
 project:
   type: website

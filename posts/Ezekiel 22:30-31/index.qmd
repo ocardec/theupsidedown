@@ -2,7 +2,8 @@
 title: "Standing in the Breach"
 # author: "OC"
 date: "2024-08-22"
-categories: [Ezekiel 22, intercession, love]
+draft: false
+categories: [Ezekiel 22, love, warfare]
 ---
 
 ### Standing in the Gap: The Upside-Down Kingdom’s Call to Humble Intercession – A Reflection on Ezekiel 22:30-31

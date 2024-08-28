@@ -1,5 +1,6 @@
 ---
 title: "The Upside-Down Blog"
+# description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel"
 listing:
   contents: posts
   sort: "date desc"
@@ -7,17 +8,17 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
-page-layout: full
-title-block-banner: false
+page-layout: article
+title-block-banner: true
 ---
 
-### Welcome to the Upside-Down
+*The Kingdom of God is not what the world expects.*
 
-The Kingdom of God is not what the world expects. It turns our assumptions upside-down and challenges our understanding of power, significance, and success. Where the world exalts the proud, Christ calls us to humility; where culture glorifies strength, the Gospel celebrates weakness.
+It turns our assumptions upside-down and challenges our understanding of power, significance, and success. Where the world exalts the proud, Christ calls us to humility; where culture glorifies strength, the Gospel celebrates weakness. Jesus Christ Himself is the embodiment of this paradox, reigning as the King who was crucified, achieving victory through surrender, and offering life through His own death.
 
-Jesus Christ Himself is the embodiment of this paradox, reigning as the King who was crucified, achieving victory through surrender, and offering life through His own death. In the upside-down Kingdom of God, the last are first, the least are greatest, and the humble are exalted. Here, light conquers darkness, life triumphs over death, and the cross, once a symbol of shame, becomes the cornerstone of hope and salvation.
+In the upside-down Kingdom of God, the last are first, the least are greatest, and the humble are exalted. Here, light conquers darkness, life triumphs over death, and the cross, once a symbol of shame, becomes the cornerstone of hope and salvation.
 
-The Upside-Down blog exists to explore and celebrate the profound and paradoxical truths that define God’s Kingdom. It seeks to invite readers to embrace the counter-intuitive, counter-cultural ways of Jesus in a world that is ever desperate for meaning.
+This Upside-Down blog exists to explore and celebrate the profound and paradoxical truths that define God’s Kingdom. It seeks to invite readers to embrace the counter-intuitive, counter-cultural ways of Jesus in a world that is ever desperate for meaning.
 
 <br/>
 

@@ -20,10 +20,16 @@ This blog is a space for exploring these rich, biblical themes. We delve into th
 
 In a world where success is defined by power, prestige, and self-promotion, The Upside-Down invites you to discover the freedom and joy found in surrendering to the paradoxical ways of Jesus. Join us as we journey deeper into a Kingdom where the cross leads to victory, and the empty tomb speaks of life eternal.
 
+------------------------------------------------------------------------
+
 ### Observations
 
 -   Graphics auto-generated using OpenAI's GPT-4o (ChatGPT Plus) and DALL-E image generator
--   The Upside-Down blog content is reviewed and complemented by the AI-powered [NTW✝](https://www.navtheway.com)
--   The views and opinions expressed in this blog's content are those of the author and do not reflect the views or positions of [NTW✝](https://www.navtheway.com) and/or its administrator
+-   The Upside-Down blog content is reviewed and complemented by the AI-powered GPT Navigate The Way ([NTW✝](https://www.navtheway.com){target="_blank"})
+-   The views and opinions expressed in this blog's content are those of the author and do not reflect the views or positions of [NTW✝](https://www.navtheway.com){target="_blank"} and/or its administrator
+
+### License
+
+-   [GNU General Public License](html/LICENSE){target="_blank"}
 
 ------------------------------------------------------------------------

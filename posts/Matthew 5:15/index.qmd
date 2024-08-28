@@ -2,7 +2,8 @@
 title: "Hidden Light"
 # author: "OC"
 date: "2024-08-17"
-categories: [Matthew 5, light]
+draft: false 
+categories: [Matthew 5, light, darkness]
 ---
 
 ### The Paradox of Hidden Light in the Upside-Down Kingdom: A Reflection on Matthew 5:14-16

@@ -3,7 +3,7 @@ title: "Dead and Dry"
 # author: "OC"
 date: "2024-08-18"
 draft: false
-categories: [Psalm 1, barren, fruitful, death, life]
+categories: [Psalm 1, death, life]
 ---
 
 ### The Paradox of Flourishing in the Upside-Down Kingdom: A Reflection on Psalm 1:3

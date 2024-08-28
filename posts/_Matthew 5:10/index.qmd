@@ -1,0 +1,11 @@
+---
+title: "My Post"
+description: "Post description"
+author: "OC"
+date: "08/28/2024"
+categories:
+  - verse
+  - tag1
+  - tag2
+draft: true
+---

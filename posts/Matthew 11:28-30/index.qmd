@@ -2,7 +2,8 @@
 title: "Resting Under a Yoke"
 # author: "OC"
 date: "2024-08-27"
-categories: [Matthew 11, rest, yoke, labor]
+draft: false
+categories: [Matthew 11, life, rest]
 ---
 
 ### Finding Rest Under a Yoke: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 11:28-30
