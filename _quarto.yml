@@ -14,9 +14,9 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "About"
+      - text: "Information"
         menu: 
-          - text: "Purpose"
+          - text: "About"
             href: about.qmd
           - text: "Creator"
             href: https://ocardec.github.io 
