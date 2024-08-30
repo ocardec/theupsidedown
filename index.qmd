@@ -5,8 +5,8 @@ listing:
   sort: "date desc"
   type: grid
   categories: true
-  sort-ui: false
-  filter-ui: false
+  sort-ui: true
+  filter-ui: true
 page-layout: article
 title-block-banner: true
 ---
@@ -28,5 +28,3 @@ This Upside-Down blog exists to explore and celebrate the profound and paradoxic
 <br/>
 
 ------------------------------------------------------------------------
-
-<br/>
