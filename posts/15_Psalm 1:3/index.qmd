@@ -1,7 +1,6 @@
 ---
 title: "Dead and Dry"
-date: "2024-09-02"
-draft: true
+date: "2024-08-15"
 categories: [Psalm 1, death, life]
 ---
 

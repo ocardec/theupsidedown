@@ -1,7 +1,6 @@
 ---
 title: "Narrow Path to Life"
-date: "2024-09-02"
-draft: true
+date: "2024-08-16"
 categories: [Matthew 7, life, death]
 ---
 

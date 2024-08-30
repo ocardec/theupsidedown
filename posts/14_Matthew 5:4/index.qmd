@@ -1,11 +1,10 @@
 ---
 title: 'Blessed are those who "Grieve"'
-date: "2024-09-03"
+date: "2024-08-14"
 categories:
   - Matthew 5
   - grieving
   - blessing
-draft: true
 ---
 
 ### Blessed Are Those Who Mourn: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:4
