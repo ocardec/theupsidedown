@@ -2,7 +2,10 @@
 # Website settings:
 website:
   reader-mode: true
+  # title: "The Upside-Down Blog"
+  site-url: https://ocardec.github.io/TheUpsideDown/
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel." 
+  
   # margin-header: html/subscribe.html
   navbar:
     pinned: false
@@ -21,14 +24,14 @@ website:
             target: _blank
       - text: "References"
         href: references/index.qmd
+        
     # social media handles
     right:
+      - icon: rss
+        href: docs/index.html
       - icon: envelope
         aria-label: email
         href: "mailto:ocmain@gocardec.com"  
-      - icon: linkedin
-        href: https://www.linkedin.com/in/oscarcardec/
-        target: _blank
 
 # ====== Don't touch unless you know what you're doing ======
   search: 
@@ -37,15 +40,15 @@ website:
     
   page-footer:
     left: |
-      <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">NTW ✝️</a></span>
+      <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">NTW</a></span>
     center: 
       - "&#169; Copyright 2024 Cardec Solutions &nbsp;"
-      - icon: twitter 
-        href: https://x.com/CardO37474 
-        target: _blank 
-      - icon: github
-        href: https://github.com/ocardec
-        target: _blank
+      # - icon: twitter 
+      #   href: https://x.com/CardO37474 
+      #   target: _blank 
+      # - icon: github
+      #   href: https://github.com/ocardec
+      #   target: _blank
     right: |
       <span class="faux-block">Crafted in <a href="https://quarto.org" target="_blank"><img src="img/quarto.png" width="80"></a></span>
 

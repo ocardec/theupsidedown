@@ -114,12 +114,12 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:ocmain@gocardec.com"> <i class="bi bi-envelope" role="img" aria-label="email">
+    <a class="nav-link" href="../docs/index.html"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/oscarcardec/" target="_blank"> <i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="mailto:ocmain@gocardec.com"> <i class="bi bi-envelope" role="img" aria-label="email">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -409,7 +409,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/ocardec\.github\.io\/TheUpsideDown\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -741,24 +741,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">NTW ✝️</a></span></p>
+<p><span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">NTW</a></span></p>
 </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
  © Copyright 2024 Cardec Solutions &nbsp;
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://x.com/CardO37474" target="_blank">
-      <i class="bi bi-twitter" role="img">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/ocardec" target="_blank">
-      <i class="bi bi-github" role="img">
-</i> 
-    </a>
   </li>  
 </ul>
     </div>

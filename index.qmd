@@ -3,6 +3,7 @@ title: "The Upside-Down Blog"
 # description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel"
 listing:
   contents: posts
+  feed: true
   sort: "date desc"
   type: grid
   categories: true
