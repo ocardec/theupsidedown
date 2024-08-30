@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./img/usdfavi.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -79,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./img/ocfavicon.jpeg" alt="" class="navbar-logo">
+    <img src="./img/usdfavi.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -113,15 +114,10 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="./docs/index.html"> <i class="bi bi-rss" role="img">
+  <li class="nav-item">
+    <a class="nav-link" href="mailto:ocmain@gocardec.com"> <i class="bi bi-envelope" role="img">
 </i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="mailto:ocmain@gocardec.com"> <i class="bi bi-envelope" role="img" aria-label="email">
-</i> 
-<span class="menu-text"></span></a>
+<span class="menu-text">Email</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -185,7 +181,7 @@ ul.task-list li input[type="checkbox"] {
 </main></div>
     </div>
     <img src="img/usdkingdm2.jpeg" class="about-image
-  rounded " style="width: 15em;">
+  round " style="height: 15em; width: 15em;">
   </div>
 </div>
  <!-- /main -->
@@ -407,7 +403,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/ocardec\.github\.io\/TheUpsideDown\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -749,7 +745,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </ul>
     </div>
     <div class="nav-footer-right">
-<p><span class="faux-block">Crafted in <a href="https://quarto.org" target="_blank"><img src="img/quarto.png" width="80"></a></span></p>
+<p><span class="faux-block">Crafted in <a href="https://quarto.org" target="_blank"><img src="./img/quarto.png" width="70"></a></span></p>
 </div>
   </div>
 </footer>

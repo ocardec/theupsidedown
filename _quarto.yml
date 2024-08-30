@@ -1,17 +1,13 @@
 
-# Website settings:
 website:
   reader-mode: true
-  # title: "The Upside-Down Blog"
-  site-url: https://ocardec.github.io/TheUpsideDown/
-  description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel." 
+  description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
+  favicon: img/usdfavi.png
   
-  # margin-header: html/subscribe.html
   navbar:
     pinned: false
     collapse: true
-    logo: img/ocfavicon.jpeg
-    # navbar menu
+    logo: img/usdfavi.png
     left:
       - text: "Home"
         href: index.qmd
@@ -24,46 +20,38 @@ website:
             target: _blank
       - text: "References"
         href: references/index.qmd
-        
-    # social media handles
     right:
-      - icon: rss
-        href: docs/index.html
+      # - icon: rss
+      #   href: docs/index.html
       - icon: envelope
-        aria-label: email
+        text: Email
+        # aria-label: email
         href: "mailto:ocmain@gocardec.com"  
 
-# ====== Don't touch unless you know what you're doing ======
   search: 
     location: navbar
     type: textbox
     
   page-footer:
+    # background: 'dark'
     left: |
       <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">NTW</a></span>
     center: 
       - "&#169; Copyright 2024 Cardec Solutions &nbsp;"
-      # - icon: twitter 
-      #   href: https://x.com/CardO37474 
-      #   target: _blank 
-      # - icon: github
-      #   href: https://github.com/ocardec
-      #   target: _blank
     right: |
-      <span class="faux-block">Crafted in <a href="https://quarto.org" target="_blank"><img src="img/quarto.png" width="80"></a></span>
-
+      <span class="faux-block">Crafted in <a href="https://quarto.org" target="_blank"><img src="/img/quarto.png" width="70"></a></span>
+      
 project:
   type: website
   output-dir: docs
-
 format:
   html: 
     page-layout: article
     fontsize: 1.1 em
-    theme:
-      light: flatly
-      dark: darkly
+    theme: 
+        light: flatly
+        dark: darkly
     css: html/styles.css
     toc: false
-
+    
 editor: visual
