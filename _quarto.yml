@@ -3,6 +3,7 @@ website:
   reader-mode: true
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
   favicon: img/usdfavi.png
+  google-analytics: "G-V3QQ28RRMM"
   
   navbar:
     pinned: false
