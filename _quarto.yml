@@ -36,11 +36,12 @@ website:
   page-footer:
     # background: 'dark'
     left: |
-      <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">NTW</a></span>
-    center: 
-      - "&#169; Copyright 2024 Cardec Solutions &nbsp;"
+      <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank"><img src="/img/ntw.png" width="30"></a></span>
+    center: |
+      <span class="faux-block">&#169; Copyright 2024 Cardec Solutions</span>
     right: |
       <span class="faux-block">Crafted in <a href="https://quarto.org" target="_blank"><img src="/img/quarto.png" width="70"></a></span>
+      <span class="faux-block">&nbsp; Hosted in <a href="https://www.netlify.com" target="_blank"><img src="/img/netlify.png" width="40"></a></span>
       
 project:
   type: website
