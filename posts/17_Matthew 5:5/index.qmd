@@ -1,14 +1,17 @@
 ---
-title: "My Post"
-date: "09/01/2024"
+title: 'Blessed are the "Meek"'
+date: "2024-09-02"
 categories:
   - Matthew 5
   - meek
-  - blessing
-draft: true
+  - beatitudes
 ---
 
 ### Blessed Are the Meek: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:5
+
+<br/>
+
+![](meek.webp){fig-align="center" width="300"}
 
 In Matthew 5:5, Jesus declares, “Blessed are the meek, for they shall inherit the earth.” This statement is another powerful paradox within the teachings of Jesus, reflecting the values of the upside-down kingdom. In a world that often equates meekness with weakness and celebrates assertiveness, dominance, and self-promotion, Jesus turns these values on their head, elevating meekness as the pathway to true inheritance.
 
@@ -16,7 +19,7 @@ In Matthew 5:5, Jesus declares, “Blessed are the meek, for they shall inherit 
 
 The world typically views meekness as a lack of strength or courage—a trait associated with being passive, timid, or even powerless. From a worldly standpoint, those who are meek are often seen as people who are easily overlooked or taken advantage of. Success, in the world’s eyes, is usually attained by those who are aggressive, forceful, and willing to assert themselves to get what they want.
 
-However, the kingdom of God operates on a completely different principle. In God’s kingdom, meekness is not weakness, but strength under control. It is a quality characterized by humility, gentleness, and a willingness to submit to God’s will, trusting that He is in control. The Greek word for "meek" used in this verse, *praus*, was often used to describe a wild horse that had been tamed—strength harnessed for a greater purpose.
+However, the kingdom of God operates on a completely different principle. In God’s kingdom, meekness is not weakness, but strength under control. It is a quality characterized by humility, gentleness, and a willingness to submit to God’s will, trusting that He is in control. The Greek word for "meek" used in this verse, *praus*, was often used to describe a wild horse that had been tamed—strength harnessed for a greater purpose.
 
 #### The Upside-Down Kingdom’s Perspective: Meekness as True Strength
 
