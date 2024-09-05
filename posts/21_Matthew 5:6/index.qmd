@@ -1,6 +1,6 @@
 ---
 title: "Blessed Are Those Who Hunger and Thirst for Righteousness"
-date: "2024-09-05"
+date: "2024-09-06"
 categories:
   - Matthew 5
   - righteousness 

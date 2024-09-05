@@ -5,8 +5,8 @@ listing:
   sort: "date desc"
   type: grid
   categories: true
-  sort-ui: true
-  filter-ui: true
+  sort-ui: false
+  filter-ui: false
 page-layout: article
 title-block-banner: true
 ---
