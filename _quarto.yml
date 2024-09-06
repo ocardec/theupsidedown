@@ -1,4 +1,3 @@
-
 website:
   reader-mode: true
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
@@ -22,11 +21,8 @@ website:
       - text: "References"
         href: references/index.qmd
     right:
-      # - icon: rss
-      #   href: docs/index.html
       - icon: envelope
         text: Email
-        # aria-label: email
         href: "mailto:ocmain@gocardec.com"  
 
   search: 
@@ -34,7 +30,6 @@ website:
     type: textbox
     
   page-footer:
-    # background: 'dark'
     left: |
       <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank"><img src="/img/ntw.png" width="30"></a></span>
     center: |
@@ -46,10 +41,11 @@ website:
 project:
   type: website
   output-dir: docs
+
 format:
   html: 
     page-layout: article
-    fontsize: 1.1 em
+    fontsize: 1.1em
     theme: 
         light: flatly
         dark: darkly
