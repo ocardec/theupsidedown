@@ -1,5 +1,5 @@
 ---
-title: "Blessed Are the Persecuted"
+title: "Blessed are the Persecuted"
 date: "2024-09-04"
 categories:
   - Warfare

@@ -5,6 +5,7 @@ website:
   site-url: https://theupsidedownblog.netlify.app
   favicon: img/usdfavi.png
   google-analytics: "G-V3QQ28RRMM"
+  #margin-footer: html/subscribe.html
   
   navbar:
     pinned: false
@@ -27,7 +28,7 @@ website:
         text: Email
         href: "mailto:ocmain@gocardec.com"  
       - icon: rss
-        href: index.xml
+        href: docs/index.xml
 
   search: 
     location: navbar
