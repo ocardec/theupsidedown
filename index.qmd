@@ -1,12 +1,14 @@
 ---
-title: "The Upside-Down Blog"
 listing:
-  contents: posts
   sort: "date desc"
   type: grid
+  contents: posts
+  feed:
+    items: 10
   categories: true
   sort-ui: false
   filter-ui: false
+  
 page-layout: article
 title-block-banner: true
 ---
