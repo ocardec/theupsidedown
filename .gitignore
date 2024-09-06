@@ -4,5 +4,7 @@
 .Ruserdata
 
 _test/
+_site
+_freeze
 
 /.quarto/
