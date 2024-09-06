@@ -2,9 +2,10 @@
 title: 'Blessed are the "Meek"'
 date: "2024-09-02"
 categories:
-  - Matthew 5
-  - meek
-  - beatitudes
+  - Humbleness
+  - Hope
+  - Brokenness
+  - Beatitudes
 ---
 
 ### Blessed Are the Meek: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:5
