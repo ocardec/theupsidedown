@@ -27,8 +27,8 @@ website:
       - icon: envelope
         text: Email
         href: "mailto:ocmain@gocardec.com"  
-      - icon: rss
-        href: docs/index.xml
+      # - icon: rss
+      #   href: docs/index.xml
 
   search: 
     location: navbar
@@ -50,13 +50,13 @@ project:
 
 format:
   html: 
-    title: "Welcome to the Upside-Down!"
+    title: "Welcome to the Upside-Down Blog!"
     page-layout: article
     fontsize: 1.1em
     theme: 
         light: flatly
         dark: darkly
-    css: html/styles.css
+    css: html/styles.scss
     toc: false
     
 editor: visual

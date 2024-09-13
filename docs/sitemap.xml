@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://theupsidedownblog.netlify.app/index.html</loc>
-    <lastmod>2024-09-12T14:30:10.000Z</lastmod>
+    <lastmod>2024-09-13T14:39:52.868Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/01_Welcome/index.html</loc>
-    <lastmod>2024-09-12T13:35:23.590Z</lastmod>
+    <lastmod>2024-09-13T14:22:55.159Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/19_Matthew 5:10/index.html</loc>
-    <lastmod>2024-09-06T18:04:03.115Z</lastmod>
+    <lastmod>2024-09-13T14:34:42.752Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/about.html</loc>
@@ -18,34 +18,106 @@
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/references/index.html</loc>
-    <lastmod>2024-09-12T18:33:54.896Z</lastmod>
+    <lastmod>2024-09-13T14:35:47.685Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/21_Matthew 5:6/index.html</loc>
-    <lastmod>2024-09-06T18:04:43.126Z</lastmod>
+    <lastmod>2024-09-13T14:31:44.178Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/20_1 Samuel 16:1-13/index.html</loc>
-    <lastmod>2024-09-06T12:40:59.546Z</lastmod>
+    <lastmod>2024-09-13T14:34:28.052Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/23_Galatians 3:13/index.html</loc>
-    <lastmod>2024-09-09T13:22:49.797Z</lastmod>
+    <lastmod>2024-09-13T14:32:17.576Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/24_Matthew 6:19-21/index.html</loc>
-    <lastmod>2024-09-11T03:46:58.747Z</lastmod>
+    <lastmod>2024-09-13T14:32:31.249Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/25_Matthew 6:33/index.html</loc>
-    <lastmod>2024-09-12T00:21:52.189Z</lastmod>
+    <lastmod>2024-09-13T14:32:50.000Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/26_John 1:10-12/index.html</loc>
-    <lastmod>2024-09-13T11:31:35.987Z</lastmod>
+    <lastmod>2024-09-13T14:33:06.020Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/bible-reader/index.html</loc>
     <lastmod>2024-09-12T21:54:39.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/16_Matthew 7:13-14/index.html</loc>
+    <lastmod>2024-09-13T14:30:55.394Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/15_Psalm 1:3/index.html</loc>
+    <lastmod>2024-09-13T14:28:27.626Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/09_Matthew 22:14/index.html</loc>
+    <lastmod>2024-09-13T14:27:02.266Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/10_2 Corinthians 4:18/index.html</loc>
+    <lastmod>2024-09-13T14:27:13.595Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/12_Matthew 5:3/index.html</loc>
+    <lastmod>2024-09-13T14:27:35.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/17_Matthew 5:5/index.html</loc>
+    <lastmod>2024-09-13T14:31:05.365Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/13_Matthew 5:15/index.html</loc>
+    <lastmod>2024-09-13T14:27:48.794Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/14_Matthew 5:4/index.html</loc>
+    <lastmod>2024-09-13T14:27:58.635Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/22_Matthew 5:11/index.html</loc>
+    <lastmod>2024-09-13T14:32:06.818Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/11_2 Corinthians 12:9/index.html</loc>
+    <lastmod>2024-09-13T14:27:24.095Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/06_Matthew 16:25/index.html</loc>
+    <lastmod>2024-09-13T14:25:56.093Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/07_1 Corinthians 3:18-19/index.html</loc>
+    <lastmod>2024-09-13T14:26:06.276Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/04_Matthew 5:43-48/index.html</loc>
+    <lastmod>2024-09-13T14:25:31.293Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/05_Ezekiel 22:30-31/index.html</loc>
+    <lastmod>2024-09-13T14:25:42.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/08_Matthew 11:28-30/index.html</loc>
+    <lastmod>2024-09-13T14:26:51.383Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/02_Matthew 28:6/index.html</loc>
+    <lastmod>2024-09-13T14:24:16.311Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/03_Matthew 20:25-28/index.html</loc>
+    <lastmod>2024-09-13T14:25:17.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/18_2 Samuel 9:1-13/index.html</loc>
+    <lastmod>2024-09-13T14:31:17.133Z</lastmod>
   </url>
 </urlset>

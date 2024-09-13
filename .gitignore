@@ -3,8 +3,11 @@
 .RData
 .Ruserdata
 my_key.js
+.DS_Store
+api_request.R
+TheUpsideDown.Rproj
 
 _test/
-_bible_reader/
+_bible-reader/
 
 /.quarto/

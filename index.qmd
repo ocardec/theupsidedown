@@ -4,8 +4,8 @@ listing:
   type: grid
   contents: posts
   page-size: 9
-  feed:
-    items: 5
+  # feed:
+  #   items: 5
   categories: true
   sort-ui: true
   filter-ui: true
@@ -13,7 +13,7 @@ page-layout: article
 title-block-banner: true
 ---
 
-**The Kingdom of God is not what the world expects...** <br/>
+#### **The Kingdom of God is not what the world expects...** 
 
 It turns our assumptions upside-down and challenges our understanding of power, significance, and success. Where the world exalts the proud, Christ calls us to humility; where culture glorifies strength, the Gospel celebrates weakness. Jesus Christ Himself is the embodiment of this paradox, reigning as the King who was crucified, achieving victory through surrender, and offering life through His own death.
 
