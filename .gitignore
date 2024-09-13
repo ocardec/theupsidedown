@@ -2,7 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+my_key.js
 
 _test/
+_bible_reader/
 
 /.quarto/

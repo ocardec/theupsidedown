@@ -1,0 +1,159 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "website": "https://berean.bible/",
+    "licenseUrl": "https://berean.bible/",
+    "shortName": "BSB",
+    "englishName": "Berean Standard Bible",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "587b6d4528b746696e90560a23115d4da5dac426bbd75e288276092f5a45ad21",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/BSB/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31086,
+    "languageName": "English",
+    "languageEnglishName": "English"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "BSB",
+    "name": "Hosea",
+    "commonName": "Hosea",
+    "title": "Hosea",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "94b675d642a5fd632db3702e0045430846552a9e8cf13af7ffdc90741c543355",
+    "firstChapterApiLink": "/api/BSB/HOS/1.json",
+    "lastChapterApiLink": "/api/BSB/HOS/14.json",
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Hosea Redeems His Wife"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Then the LORD said to me, “Go show love to your wife again, though she is loved by another",
+          {
+            "noteId": 2458
+          },
+          "and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and offer raisin cakes to idols.",
+          {
+            "noteId": 2459
+          },
+          "”"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "So I bought her for fifteen shekels of silver",
+          {
+            "noteId": 2460
+          },
+          "and a homer and a lethech of barley.",
+          {
+            "noteId": 2461
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Then I said to her, “You must live with me for many days; you must not be promiscuous or belong to another, and I will do the same for you.”"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "For the Israelites must live many days without king or prince, without sacrifice or sacred pillar, and without ephod or idol."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Afterward, the people of Israel will return and seek the LORD their God and David their king. They will come trembling to the LORD and to His goodness in the last days."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 2458,
+        "caller": "+",
+        "text": "Or Go show love to a woman who is loved by another",
+        "reference": {
+          "chapter": 3,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 2459,
+        "caller": "+",
+        "text": "Literally and love raisin cakes",
+        "reference": {
+          "chapter": 3,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 2460,
+        "caller": "+",
+        "text": "15 shekels is approximately 6 ounces or 171 grams of silver.",
+        "reference": {
+          "chapter": 3,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 2461,
+        "caller": "+",
+        "text": "Or a homer and a half of barley; that is, a total of approximately 9.36 bushels or 330 liters (probably about 436 pounds or 198 kilograms of barley); LXX a homer of barley and a wineskin full of wine",
+        "reference": {
+          "chapter": 3,
+          "verse": 2
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/BSB/HOS/3.json",
+  "thisChapterAudioLinks": {
+    "gilbert": "https://openbible.com/audio/gilbert/BSB_28_Hos_003_G.mp3",
+    "hays": "https://openbible.com/audio/hays/BSB_28_Hos_003_H.mp3",
+    "souer": "https://openbible.com/audio/souer/BSB_28_Hos_003.mp3"
+  },
+  "nextChapterApiLink": "/api/BSB/HOS/4.json",
+  "nextChapterAudioLinks": {
+    "gilbert": "https://openbible.com/audio/gilbert/BSB_28_Hos_004_G.mp3",
+    "hays": "https://openbible.com/audio/hays/BSB_28_Hos_004_H.mp3",
+    "souer": "https://openbible.com/audio/souer/BSB_28_Hos_004.mp3"
+  },
+  "previousChapterApiLink": "/api/BSB/HOS/2.json",
+  "previousChapterAudioLinks": {
+    "gilbert": "https://openbible.com/audio/gilbert/BSB_28_Hos_002_G.mp3",
+    "hays": "https://openbible.com/audio/hays/BSB_28_Hos_002_H.mp3",
+    "souer": "https://openbible.com/audio/souer/BSB_28_Hos_002.mp3"
+  },
+  "numberOfVerses": 5
+}

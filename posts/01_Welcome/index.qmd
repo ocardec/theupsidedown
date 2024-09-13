@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the Upside-Down"
-categories: [Hope, Kingdom, Salvation]
+categories: [Hope, Jesus, Christ, Kingdom, Grace, Salvation]
 ---
 
 <br/>
@@ -9,4 +9,4 @@ In a world where success is defined by power, prestige, and self-promotion, The 
 
 <br/>
 
-![](upsidedown2.png){fig-align="center" width="400"}
+![](upsidedown2.png){fig-align="center" width="350"}

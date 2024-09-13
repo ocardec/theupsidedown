@@ -1,0 +1,26 @@
+---
+title: "Bible Reader"
+format: html
+resources: 
+  - script.js
+---
+
+## Interactive Bible Reader
+
+<div>
+  <label for="book-select">Book:</label>
+  <select id="book-select"><option value="">Select a book</option></select>
+
+  <label for="chapter-select">Chapter:</label>
+  <select id="chapter-select"><option value="">Select a chapter</option></select>
+
+  <label for="verse-select">Verse:</label>
+  <select id="verse-select">
+        <option value="">Select a verse</option>
+    </select>
+</div>
+
+<div id="display-text" style="margin-top: 20px; font-size: 18px;"></div>
+
+<!-- Include the script -->
+<script src="script.js"></script>

@@ -1,6 +1,6 @@
 website:
-  reader-mode: true
-  title: "The Upside-Down Blog"
+  reader-mode: false
+  title: " "
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
   site-url: https://theupsidedownblog.netlify.app
   favicon: img/usdfavi.png
@@ -36,19 +36,21 @@ website:
     
   page-footer:
     left: |
-      <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank"><img src="/img/ntw.png" width="30"></a></span>
-    center: |
       <span class="faux-block">&#169; Copyright 2024 Cardec Solutions</span>
+    center: |
+      <span class="faux-block">Crafted in <a href="https://quarto.org" target="_blank"><img src="/img/quarto.png" width="75"></a></span>
+      <span class="faux-block">&nbsp; Hosted in <a href="https://www.netlify.com" target="_blank"><img src="/img/netlify2.png" width="50"></a></span>
     right: |
-      <span class="faux-block">Crafted in <a href="https://quarto.org" target="_blank"><img src="/img/quarto.png" width="70"></a></span>
-      <span class="faux-block">&nbsp; Hosted in <a href="https://www.netlify.com" target="_blank"><img src="/img/netlify.png" width="40"></a></span>
+      <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">Navigate the Way️</a></span>
       
 project:
+  # title: "The Upside-Down"
   type: website
   output-dir: docs
 
 format:
   html: 
+    title: "Welcome to the Upside-Down!"
     page-layout: article
     fontsize: 1.1em
     theme: 

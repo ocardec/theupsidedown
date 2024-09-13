@@ -1,0 +1,238 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "website": "https://berean.bible/",
+    "licenseUrl": "https://berean.bible/",
+    "shortName": "BSB",
+    "englishName": "Berean Standard Bible",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "587b6d4528b746696e90560a23115d4da5dac426bbd75e288276092f5a45ad21",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/BSB/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31086,
+    "languageName": "English",
+    "languageEnglishName": "English"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "BSB",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "Psalms",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "201d9ab524c49e8e1bdba730fd96071b6dee2989688396ca592f06b5c2c20806",
+    "firstChapterApiLink": "/api/BSB/PSA/1.json",
+    "lastChapterApiLink": "/api/BSB/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 87,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "The LORD Loves the Gates of Zion"
+        ]
+      },
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "A Psalm of the sons of Korah. A song."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "He has founded His city",
+            "poem": 1
+          },
+          {
+            "text": "on the holy mountains.",
+            "poem": 2
+          },
+          {
+            "noteId": 4463
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "The LORD loves the gates of Zion",
+            "poem": 1
+          },
+          {
+            "text": "more than all the dwellings of Jacob.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Glorious things are ascribed to you,",
+            "poem": 1
+          },
+          {
+            "text": "O city of God.",
+            "poem": 2
+          },
+          "Selah"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "“I will mention Rahab",
+            "poem": 1
+          },
+          {
+            "noteId": 4464
+          },
+          {
+            "text": "and Babylon",
+            "poem": 1
+          },
+          {
+            "text": "among those who know Me—",
+            "poem": 2
+          },
+          {
+            "text": "along with Philistia, Tyre, and Cush",
+            "poem": 1
+          },
+          {
+            "noteId": 4465
+          },
+          {
+            "text": "—",
+            "poem": 1
+          },
+          {
+            "text": "when I say, ‘This one was born in Zion.’”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "And it will be said of Zion:",
+            "poem": 1
+          },
+          {
+            "text": "“This one and that one were born in her,",
+            "poem": 2
+          },
+          {
+            "text": "and the Most High Himself will establish her.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "The LORD will record in the register of the peoples:",
+            "poem": 1
+          },
+          {
+            "text": "“This one was born in Zion.”",
+            "poem": 2
+          },
+          "Selah"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Singers and pipers will proclaim,",
+            "poem": 1
+          },
+          {
+            "text": "“All my springs of joy are in You.”",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 4463,
+        "caller": "+",
+        "text": "Literally His foundation is on the holy mountains",
+        "reference": {
+          "chapter": 87,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 4464,
+        "caller": "+",
+        "text": "Rahab is a poetic name for Egypt.",
+        "reference": {
+          "chapter": 87,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 4465,
+        "caller": "+",
+        "text": "That is, the upper Nile region",
+        "reference": {
+          "chapter": 87,
+          "verse": 4
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/BSB/PSA/87.json",
+  "thisChapterAudioLinks": {
+    "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_087_G.mp3",
+    "hays": "https://openbible.com/audio/hays/BSB_19_Psa_087_H.mp3",
+    "souer": "https://openbible.com/audio/souer/BSB_19_Psa_087.mp3"
+  },
+  "nextChapterApiLink": "/api/BSB/PSA/88.json",
+  "nextChapterAudioLinks": {
+    "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_088_G.mp3",
+    "hays": "https://openbible.com/audio/hays/BSB_19_Psa_088_H.mp3",
+    "souer": "https://openbible.com/audio/souer/BSB_19_Psa_088.mp3"
+  },
+  "previousChapterApiLink": "/api/BSB/PSA/86.json",
+  "previousChapterAudioLinks": {
+    "gilbert": "https://openbible.com/audio/gilbert/BSB_19_Psa_086_G.mp3",
+    "hays": "https://openbible.com/audio/hays/BSB_19_Psa_086_H.mp3",
+    "souer": "https://openbible.com/audio/souer/BSB_19_Psa_086.mp3"
+  },
+  "numberOfVerses": 7
+}

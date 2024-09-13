@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://theupsidedownblog.netlify.app/index.html</loc>
-    <lastmod>2024-09-06T18:35:01.908Z</lastmod>
+    <lastmod>2024-09-12T14:30:10.000Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/01_Welcome/index.html</loc>
-    <lastmod>2024-09-10T13:13:00.290Z</lastmod>
+    <lastmod>2024-09-12T13:35:23.590Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/19_Matthew 5:10/index.html</loc>
@@ -14,11 +14,11 @@
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/about.html</loc>
-    <lastmod>2024-09-06T12:10:28.233Z</lastmod>
+    <lastmod>2024-09-12T14:32:37.076Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/references/index.html</loc>
-    <lastmod>2024-08-29T18:22:56.741Z</lastmod>
+    <lastmod>2024-09-12T18:33:54.896Z</lastmod>
   </url>
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/21_Matthew 5:6/index.html</loc>
@@ -39,5 +39,13 @@
   <url>
     <loc>https://theupsidedownblog.netlify.app/posts/25_Matthew 6:33/index.html</loc>
     <lastmod>2024-09-12T00:21:52.189Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/posts/26_John 1:10-12/index.html</loc>
+    <lastmod>2024-09-13T11:31:35.987Z</lastmod>
+  </url>
+  <url>
+    <loc>https://theupsidedownblog.netlify.app/bible-reader/index.html</loc>
+    <lastmod>2024-09-12T21:54:39.886Z</lastmod>
   </url>
 </urlset>

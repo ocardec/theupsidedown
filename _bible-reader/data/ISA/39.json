@@ -1,0 +1,142 @@
+{
+  "translation": {
+    "id": "BSB",
+    "name": "Berean Standard Bible",
+    "website": "https://berean.bible/",
+    "licenseUrl": "https://berean.bible/",
+    "shortName": "BSB",
+    "englishName": "Berean Standard Bible",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "587b6d4528b746696e90560a23115d4da5dac426bbd75e288276092f5a45ad21",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/BSB/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31086,
+    "languageName": "English",
+    "languageEnglishName": "English"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "BSB",
+    "name": "Isaiah",
+    "commonName": "Isaiah",
+    "title": "Isaiah",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "250620782619ee2206eea414f9ab506a1c2e07802301c1536d850816e49bf6bb",
+    "firstChapterApiLink": "/api/BSB/ISA/1.json",
+    "lastChapterApiLink": "/api/BSB/ISA/66.json",
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 39,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Hezekiah Shows His Treasures"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "At that time Merodach-baladan son of Baladan king of Babylon sent letters and a gift to Hezekiah, for he had heard about Hezekiah’s illness and recovery."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "And Hezekiah welcomed the envoys gladly and showed them what was in his treasure house—the silver, the gold, the spices, and the precious oil, as well as his entire armory—all that was found in his storehouses. There was nothing in his palace or in all his dominion that Hezekiah did not show them."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Then the prophet Isaiah went to King Hezekiah and asked, “Where did those men come from, and what did they say to you?”",
+          {
+            "lineBreak": true
+          },
+          "“They came to me from a distant land,” Hezekiah replied, “from Babylon.”"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "“What have they seen in your palace?” Isaiah asked.",
+          {
+            "lineBreak": true
+          },
+          "“They have seen everything in my palace,” answered Hezekiah. “There is nothing among my treasures that I did not show them.”"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Then Isaiah said to Hezekiah, “Hear the word of the LORD of Hosts:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "The time will surely come when everything in your palace and all that your fathers have stored up until this day will be carried off to Babylon. Nothing will be left, says the LORD."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "And some of your descendants, your own flesh and blood, will be taken away to be eunuchs in the palace of the king of Babylon.”"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "But Hezekiah said to Isaiah, “The word of the LORD that you have spoken is good.” For he thought, “At least there will be peace and security in my lifetime.”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/BSB/ISA/39.json",
+  "thisChapterAudioLinks": {
+    "gilbert": "https://openbible.com/audio/gilbert/BSB_23_Isa_039_G.mp3",
+    "hays": "https://openbible.com/audio/hays/BSB_23_Isa_039_H.mp3",
+    "souer": "https://openbible.com/audio/souer/BSB_23_Isa_039.mp3"
+  },
+  "nextChapterApiLink": "/api/BSB/ISA/40.json",
+  "nextChapterAudioLinks": {
+    "gilbert": "https://openbible.com/audio/gilbert/BSB_23_Isa_040_G.mp3",
+    "hays": "https://openbible.com/audio/hays/BSB_23_Isa_040_H.mp3",
+    "souer": "https://openbible.com/audio/souer/BSB_23_Isa_040.mp3"
+  },
+  "previousChapterApiLink": "/api/BSB/ISA/38.json",
+  "previousChapterAudioLinks": {
+    "gilbert": "https://openbible.com/audio/gilbert/BSB_23_Isa_038_G.mp3",
+    "hays": "https://openbible.com/audio/hays/BSB_23_Isa_038_H.mp3",
+    "souer": "https://openbible.com/audio/souer/BSB_23_Isa_038.mp3"
+  },
+  "numberOfVerses": 8
+}
