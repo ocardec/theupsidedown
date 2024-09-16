@@ -24,3 +24,5 @@ In the upside-down Kingdom of God, the last are first, the least are greatest, a
 ------------------------------------------------------------------------
 
 <br/>
+
+<link rel="icon" type="image/png" href="img/tud_logo2"/>

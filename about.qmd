@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: img/usdkingdm3.jpeg
+image: img/tud_logo2.png
 about:
   template: "solana"
   image-shape: rounded
