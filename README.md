@@ -2,7 +2,7 @@
 
 # The Upside-Down Blog
 
-![](img/tud_logo2.png){style="float:left;  padding-bottom: 5px; padding-right: 15px"}
+![](img/tud_logo2.png){fig-align="left"}
 
 Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel. This blog was born out of a desire to dive deep into the surprising, counter-cultural ways of God’s Kingdom—a Kingdom that defies worldly wisdom and expectations.
 
