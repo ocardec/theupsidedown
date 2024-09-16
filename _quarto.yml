@@ -1,14 +1,16 @@
-
 website:
   reader-mode: true
+  title: ""
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
-  favicon: img/usdfavi.png
+  site-url: https://theupsidedownblog.netlify.app
+  favicon: img/tud_logo.png
   google-analytics: "G-V3QQ28RRMM"
+  #margin-footer: html/subscribe.html
   
   navbar:
     pinned: false
     collapse: true
-    logo: img/usdfavi.png
+    logo: img/tud_logo.png
     left:
       - text: "Home"
         href: index.qmd
@@ -17,38 +19,39 @@ website:
           - text: "About"
             href: about.qmd
           - text: "Creator"
-            href: https://ocardec.github.io 
+            href: https://ocardec.netlify.app
             target: _blank
       - text: "References"
         href: references/index.qmd
     right:
-      # - icon: rss
-      #   href: docs/index.html
       - icon: envelope
         text: Email
-        # aria-label: email
-        href: "mailto:ocmain@gocardec.com"  
+        href: "mailto:admin@theupsidedownblog.com"  
+      # - icon: rss
+      #   href: docs/index.xml
 
   search: 
     location: navbar
     type: textbox
     
   page-footer:
-    # background: 'dark'
     left: |
-      <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">NTW</a></span>
-    center: 
-      - "&#169; Copyright 2024 Cardec Solutions &nbsp;"
+      <span class="faux-block">&#169; Copyright 2024 Cardec Solutions</span>
+    center: |
+      <span class="faux-block">Created in <a href="https://quarto.org" target="_blank"> <img src="/img/quarto.png" width="70"></a></span>
     right: |
-      <span class="faux-block">Crafted in <a href="https://quarto.org" target="_blank"><img src="/img/quarto.png" width="70"></a></span>
+      <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">Navigate the Way️</a></span>
       
 project:
+  # title: "The Upside-Down"
   type: website
   output-dir: docs
+
 format:
   html: 
+    title: "Welcome to the Upside-Down Blog!"
     page-layout: article
-    fontsize: 1.1 em
+    fontsize: 1.1em
     theme: 
         light: flatly
         dark: darkly
