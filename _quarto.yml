@@ -3,14 +3,14 @@ website:
   title: ""
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
   site-url: https://theupsidedownblog.netlify.app
-  favicon: img/tud_logo.png
+  favicon: img/tud_logo2.png
   google-analytics: "G-V3QQ28RRMM"
   #margin-footer: html/subscribe.html
   
   navbar:
     pinned: false
     collapse: true
-    logo: img/tud_logo.png
+    logo: img/tud_logo2.png
     left:
       - text: "Home"
         href: index.qmd
