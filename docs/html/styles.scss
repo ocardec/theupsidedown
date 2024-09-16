@@ -1,3 +1,10 @@
+/* css styles */
+// rounded corners for all images
+img {
+  border-radius: 7%;
+
+}
+
 /*-- scss:defaults --*/
 
 /* From https://github.com/andrewheiss/ath-quarto/blob/main/html/ath.scss */
@@ -57,9 +64,19 @@ $toc-font-size: 1em;
 // Code copy
 $btn-code-copy-color-active: $orange !default;
 
+// rounded corners for all images
+img {
+  border-radius: 7%;
+
+}
 
 /*-- scss:rules --*/
 
+// rounded corners for all images
+img {
+  border-radius: 7%;
+
+}
 
 .nav-footer {
     align-items: flex-start;  // Align all flex items to the top

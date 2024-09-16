@@ -1,16 +1,16 @@
 website:
-  reader-mode: false
-  title: " "
+  reader-mode: true
+  title: ""
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
   site-url: https://theupsidedownblog.netlify.app
-  favicon: img/usdfavi.png
+  favicon: img/tud_logo.png
   google-analytics: "G-V3QQ28RRMM"
   #margin-footer: html/subscribe.html
   
   navbar:
     pinned: false
     collapse: true
-    logo: img/usdfavi.png
+    logo: img/tud_logo.png
     left:
       - text: "Home"
         href: index.qmd
@@ -19,7 +19,7 @@ website:
           - text: "About"
             href: about.qmd
           - text: "Creator"
-            href: https://ocardec.github.io 
+            href: https://ocardec.netlify.app
             target: _blank
       - text: "References"
         href: references/index.qmd
@@ -38,8 +38,7 @@ website:
     left: |
       <span class="faux-block">&#169; Copyright 2024 Cardec Solutions</span>
     center: |
-      <span class="faux-block">Crafted in <a href="https://quarto.org" target="_blank"><img src="/img/quarto.png" width="75"></a></span>
-      <span class="faux-block">&nbsp; Hosted in <a href="https://www.netlify.com" target="_blank"><img src="/img/netlify2.png" width="50"></a></span>
+      <span class="faux-block">Created in <a href="https://quarto.org" target="_blank"> <img src="/img/quarto.png" width="70"></a></span>
     right: |
       <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">Navigate the Way️</a></span>
       
@@ -56,7 +55,7 @@ format:
     theme: 
         light: flatly
         dark: darkly
-    css: html/styles.scss
+    css: html/styles.css
     toc: false
     
 editor: visual
