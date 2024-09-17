@@ -1,9 +1,3 @@
-/* css styles */
-// rounded corners for all images
-img {
-  border-radius: 7%;
-
-}
 
 /*-- scss:defaults --*/
 
@@ -64,20 +58,47 @@ $toc-font-size: 1em;
 // Code copy
 $btn-code-copy-color-active: $orange !default;
 
-// rounded corners for all images
-img {
-  border-radius: 7%;
-
-}
 
 /*-- scss:rules --*/
 
-// rounded corners for all images
-img {
-  border-radius: 7%;
+// Blog
+.blog {
+    .blog-entry {
+        display: flex;
+        flex-direction: row;
+        font-family: $headings-font-family;
+        line-height: 1.3;
+        margin-bottom: 1.5em;
+        column-gap: 1em;
+        
+            img{border-radius: 10%;
+    }
 
+        .metadata {
+            flex: 0 0 8%;
+        }
+
+        .body {
+            flex: 1 1 auto;
+            
+            img{border-radius: 10%;
+    }
+        }
+
+        .thumbnail {
+            flex: 0 0 25%;
+
+            img {
+                border-radius: 10%;
+                width: 100%;
+                object-fit: cover;
+                max-height: 350px;
+            }
+        }
+    }
 }
-
+        
+    
 .nav-footer {
     align-items: flex-start;  // Align all flex items to the top
     flex-wrap: wrap;
