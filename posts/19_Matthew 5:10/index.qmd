@@ -1,6 +1,6 @@
 ---
 title: "Blessed are the Persecuted"
-date: "2024-09-04"
+date: "2024-07-16"
 categories:
   - Warfare
   - Beatitudes

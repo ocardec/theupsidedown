@@ -1,6 +1,6 @@
 ---
 title: "Many are Called, Few are Chosen"
-date: "2024-08-28"
+date: "2024-05-07"
 categories:
   - Chosen
   - Life
