@@ -4,14 +4,14 @@ website:
   title: ""
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
   site-url: https://theupsidedownblog.netlify.app
-  favicon: img/tud_logo2.png
+  favicon: img/round_logo2.png
   google-analytics: "G-V3QQ28RRMM"
   #margin-footer: html/subscribe.html
   
   navbar:
     pinned: false
     collapse: true
-    logo: img/tud_logo2.png
+    logo: img/round_logo2.png
     left:
       - text: "Home"
         href: index.qmd
@@ -25,7 +25,7 @@ website:
       - text: "References"
         href: references/index.qmd
     right:
-      - icon: envelope
+      - icon: envelope-at
         text: Email
         href: "mailto:admin@theupsidedownblog.com"  
       # - icon: rss
@@ -39,7 +39,7 @@ website:
     left: |
       <span class="faux-block">&#169; Copyright 2024 Cardec Solutions</span>
     center: |
-      <span class="faux-block">Created in <a href="https://quarto.org" target="_blank"> <img src="/img/quarto.png" width="70"></a></span>
+      <span class="faux-block">Created in<a href="https://quarto.org" target="_blank"><img src="/img/quarto.png" width="65"></a></span>
     right: |
       <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">Navigate the Way️</a></span>
       

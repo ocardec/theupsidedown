@@ -1,6 +1,5 @@
 ---
 title: "References"
-# image: img/cross2kingdom.jpeg
 about:
   template: "solana"
 page-layout: article
