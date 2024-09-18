@@ -1,6 +1,6 @@
 ---
 title: "The Shepherd Boy Becomes the King"
-date: "2024-09-05"
+date: "2024-07-23"
 categories:
   - Humbleness
   - Chosen

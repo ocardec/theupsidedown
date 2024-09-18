@@ -1,6 +1,6 @@
 ---
 title: 'Blessed are the "Meek"'
-date: "2024-09-02"
+date: "2024-07-02"
 categories:
   - Humbleness
   - Hope

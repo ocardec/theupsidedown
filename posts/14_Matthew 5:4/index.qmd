@@ -1,6 +1,6 @@
 ---
 title: 'Blessed are those who "Grieve"'
-date: "2024-08-14"
+date: "2024-06-11"
 categories:
   - Purpose
   - Brokenness
