@@ -1,8 +1,8 @@
 ---
 title: "About"
-image: img/tud_logo2.png
 about:
   template: "solana"
+  image: img/tud_logo300.png
   image-shape: rounded
 page-layout: article
 ---

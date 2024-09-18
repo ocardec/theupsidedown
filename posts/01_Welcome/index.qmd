@@ -7,4 +7,4 @@ In a world where success is defined by power, prestige, and self-promotion, The 
 
 <br/>
 
-![](upsidedown2.png){fig-align="center" width="350"}
+![](upsidedown2.png){fig-align="center" height="350"}
