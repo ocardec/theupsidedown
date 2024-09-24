@@ -1,6 +1,6 @@
 
 website:
-  reader-mode: true
+  reader-mode: false
   title: ""
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
   site-url: https://theupsidedownblog.netlify.app
@@ -14,17 +14,21 @@ website:
     logo: img/round_logo2.png
     left:
       - text: "Home"
-        href: index.qmd
+        href: index-en.qmd
       - text: "Information"
         menu: 
           - text: "About"
-            href: about.qmd
+            href: about-en.qmd
           - text: "Creator"
             href: https://ocardec.netlify.app
             target: _blank
       - text: "References"
         href: references/index.qmd
     right:
+      - text: "Español"
+        href: index-es.qmd
+      - text: "English"
+        href: index-en.qmd
       - icon: envelope-at
         text: Email
         href: "mailto:admin@theupsidedownblog.com"  
@@ -48,9 +52,28 @@ project:
   type: website
   output-dir: docs
 
+profile:
+  default: english
+  group: [english, español]
+  
+language:
+    default: en  # default language
+
+languages:
+  - id: en
+    label: english
+    dir: posts/en
+    title: "Welcome to the Upside-Down Blog!"
+    profile: english
+
+  - id: es
+    label: español
+    dir: posts/es
+    title: "Bienvenidos a el Blog Invertido!"
+    profile: español
+
 format:
   html: 
-    title: "Welcome to the Upside-Down Blog!"
     page-layout: article
     fontsize: 1.1em
     theme: 
