@@ -1,11 +1,12 @@
 
 website:
-  reader-mode: false
+  reader-mode: true
   title: ""
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
   site-url: https://theupsidedownblog.netlify.app
-  favicon: img/round_logo2.png
+  favicon: "img/round_logo2.png"
   google-analytics: "G-V3QQ28RRMM"
+  open-graph: true
   #margin-footer: html/subscribe.html
   
   navbar:
@@ -32,8 +33,6 @@ website:
       - icon: envelope-at
         text: Email
         href: "mailto:admin@theupsidedownblog.com"  
-      # - icon: rss
-      #   href: docs/index.xml
 
   search: 
     location: navbar
@@ -55,9 +54,6 @@ project:
 profile:
   default: english
   group: [english, español]
-  
-language:
-    default: en  # default language
 
 languages:
   - id: en

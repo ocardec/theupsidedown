@@ -1,4 +1,4 @@
-# _eval
+# spanish profile
 website:
   reader-mode: true
   title: ""
@@ -6,6 +6,7 @@ website:
   site-url: https://theupsidedownblog.netlify.app
   favicon: img/round_logo2.png
   #google-analytics: "G-V3QQ28RRMM"
+  open-graph: true
   #margin-footer: html/subscribe.html
   
   navbar:
@@ -50,7 +51,7 @@ website:
 project:
   # title: "The Upside-Down"
   type: website
-  output-dir: docs/es
+  output-dir: docs
 
 profile:
   default: español
