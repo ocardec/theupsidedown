@@ -1,12 +1,11 @@
-# english profile
+# _eval
 website:
   reader-mode: true
   title: ""
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
   site-url: https://theupsidedownblog.netlify.app
-  favicon: "img/round_logo2.png"
+  favicon: img/round_logo2.png
   google-analytics: "G-V3QQ28RRMM"
-  open-graph: true
   #margin-footer: html/subscribe.html
   
   navbar:
@@ -51,7 +50,7 @@ website:
 project:
   # title: "The Upside-Down"
   type: website
-  output-dir: docs
+  output-dir: docs/en
 
 profile:
   default: english

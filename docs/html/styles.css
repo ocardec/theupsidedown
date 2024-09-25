@@ -1,7 +1,7 @@
 /* css styles */
 
 img {
-  border-radius: 10%;
+  border-radius: 15%;
 }
 
 $white:    #ffffff !default;
@@ -45,8 +45,8 @@ $link-hover-color: $red !default;
 $link-hover-decoration: underline !default;
 
 // Footer
-// $footer-bg: $gray-900 !default;
-// $footer-fg: $gray-300 !default;
+$footer-bg: $gray-900 !default;
+$footer-fg: $gray-300 !default;
 
 // Inline code
 $code-bg: $gray-200 !default;

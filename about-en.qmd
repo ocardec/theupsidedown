@@ -4,6 +4,7 @@ about:
   template: "solana"
   image: img/tud_logo300.png
   image-shape: rounded
+lang: en
 page-layout: article
 ---
 
@@ -24,7 +25,11 @@ In a world where success is defined by power, prestige, and self-promotion, The 
 
 <br/>
 
-<h5><p style="text-align: right; font-family:fantasy;">Oscar Cardec</p></h5>
+<h5>
+
+<p style="text-align: right; font-family:fantasy;">Oscar Cardec</p>
+
+</h5>
 
 <br/>
 

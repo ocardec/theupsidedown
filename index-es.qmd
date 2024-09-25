@@ -1,10 +1,11 @@
 ---
-title: "Bienvenidos al Blog Invertido"
 listing:
   sort: "date desc"
   type: grid
   contents: posts/es
   page-size: 9
+  # feed:
+  #   items: 5
   categories: true
   sort-ui: false
   filter-ui: false
@@ -22,4 +23,4 @@ En el reino invertido de Dios, los últimos son los primeros, los más pequeños
 
 <br/>
 
-<link rel="icon" type="image/png" href="img/tud_logo2"/> 
+<link rel="icon" type="image/png" href="img/tud_logo2"/>
