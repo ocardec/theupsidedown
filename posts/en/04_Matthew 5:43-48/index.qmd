@@ -1,12 +1,13 @@
 ---
 title: "Love Your Enemies"
+image: ../../img/loveandforgive.jpeg
 date: "2024-04-02"
 categories: [Love, Enemy, Kingdom, Grace]
 ---
 
 ## Love Your Enemies: The Radical Heart of the Upside-Down Kingdom – A Reflection on Matthew 5:43-48
 
-![](loveandforgive.jpeg){fig-align="center" width="350"}
+![](../../img/loveandforgive.jpeg){fig-align="center" width="350"}
 
 In ([Matthew 5:43-48](https://www.bible.com/bible/59/mat.5.43-48){target="_blank"}), Jesus makes one of the most challenging commands in all of Scripture: “You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’ But I say to you, love your enemies and pray for those who persecute you” ([Matthew 5:43-44](https://www.bible.com/bible/59/mat.5.43-44){target="_blank"}). This teaching strikes at the very heart of the upside-down kingdom, where God’s standards and values are not only different from the world’s but often completely opposed to them. The world teaches that we should love those who love us and return good for good, but Jesus turns this idea on its head by commanding His followers to respond to hatred with love and to persecution with prayer.
 

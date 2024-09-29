@@ -1,12 +1,13 @@
 ---
 title: 'Bienaventurados los Afligidos'
+image: ../../img/grieving.webp
 date: "2024-06-11"
 categories: [Propósito, Quebrantamiento, Bienaventuranzas]
 ---
 
 ## Bienaventurados los Afligidos: La Paradoja del Reino Invertido – Una Reflexión Basada en Mateo 5:4
 
-![](grieving.webp){fig-align="center" width="350"}
+![](../../img/grieving.webp){fig-align="center" width="350"}
 
 En Mateo 5:4, Jesús declara: “Bienaventurados los que lloran, pues ellos serán consolados.” Esta declaración es otra poderosa paradoja que caracteriza el reino invertido de Dios. En un mundo que a menudo rechaza el dolor y promueve la felicidad a cualquier costo, Jesús eleva el lamento como un estado bienaventurado, prometiendo consuelo a aquellos que lo experimentan.
 

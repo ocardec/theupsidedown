@@ -1,12 +1,13 @@
 ---
 title: 'Bienaventurados son los Insultados'
+image: ../../img/insulted.webp
 date: "2024-08-06"
 categories: [Bienaventuranzas, "Vida Eterna", Quebrantamiento]
 ---
 
 ## La Buena Vida Pertenece a los que son Insultados: La Aplicación del Reino Invertido – Una Reflexión Basada en Mateo 5:11
 
-![](insulted.webp){fig-align="center" width="350"}
+![](../../img/insulted.webp){fig-align="center" width="350"}
 
 En Mateo 5:11, Jesús proclama: "Bienaventurados serán cuando los insulten y los persigan, y digan todo tipo de mal contra ustedes falsamente, por causa de Mí". Esta bienaventuranza ofrece una perspectiva sorprendente: aquellos que enfrentan insultos, acusaciones falsas y denigración por su fidelidad a Jesús son, de hecho, bienaventurados. Esta declaración desafía la comprensión convencional de la bendición y revela los valores contraculturales e inversos del reino de los cielos.
 

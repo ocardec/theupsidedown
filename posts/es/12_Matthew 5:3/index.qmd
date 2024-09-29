@@ -1,15 +1,13 @@
 ---
 title: 'Bienaventurados los Pobres en Espíritu'
+image: ../../img/powerless.webp
 date: "2024-05-28"
-categories:
-  - Humildad
-  - Bienaventuranzas
-  - Propósito 
+categories: [Humildad, Bienaventuranzas, Propósito]
 ---
 
 ## Bienaventurados los Pobres en Espiritu: La Paradoja del Reino Invertido – Una Reflexión Basada en Mateo 5:3
 
-![](powerless.webp){fig-align="center" width="350"}
+![](../../img/powerless.webp){fig-align="center" width="350"}
 
 En Mateo 5:3, Jesús comienza el Sermón del Monte con una declaración profunda y contracultural: “Bienaventurados los pobres en espíritu, pues de ellos es el reino de los cielos.” Esta declaración establece de inmediato el tono del reino invertido que Jesús vino a proclamar: un reino donde aquellos que son espiritualmente humildes, necesitados, quebrantados, incapaces o dependientes son los verdaderamente bienaventurados.
 

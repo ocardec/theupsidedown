@@ -1,12 +1,13 @@
 ---
 title: "Wise by Being Fool"
+image: ../../img/wisefools.webp
 date: "2024-04-23"
 categories: [Salvation, Serve, World]
 ---
 
 ## Becoming Wise by Being Fools: The Paradox of the Upside-Down Kingdom – A Reflection on 1 Corinthians 3:18-19
 
-![](wisefools.webp){fig-align="center" width="350"}
+![](../../img/wisefools.webp){fig-align="center" width="350"}
 
 In 1 Corinthians 3:18-19, the Apostle Paul writes, “Let no one deceive himself. If anyone among you thinks that he is wise in this age, let him become a fool that he may become wise. For the wisdom of this world is folly with God. For it is written, ‘He catches the wise in their craftiness.’” This passage presents a profound and challenging paradox that lies at the heart of the upside-down kingdom: to become truly wise, one must first become a fool.
 

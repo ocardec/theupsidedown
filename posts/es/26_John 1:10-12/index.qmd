@@ -1,12 +1,13 @@
 ---
 title: 'Su Rechazo, Nuestra Salvación'
+image: ../../img/thelight.webp
 date: "2024-09-03"
 categories: [Salvación, Jesús, Escogidos]
 ---
 
 ## Su Rechazo, Nuestra Salvación: La Aplicación del Reino Invertido – Una Reflexión Basada en Juan 1:10-12
 
-![](thelight.webp){fig-align="center" width="350"}
+![](../../img/thelight.webp){fig-align="center" width="350"}
 
 En el Evangelio de Juan, encontramos una declaración profunda y conmovedora sobre el ministerio terrenal de Cristo: “Él estaba en el mundo, y el mundo fue hecho por medio de Él, y el mundo no le conoció. A lo suyo vino, y los suyos no le recibieron” (Juan 1:10-11). Este rechazo de Jesús por las mismas personas a las que vino a salvar es una reflexión crucial del "reino al revés"—un reino donde los caminos de Dios desafían las expectativas humanas y Sus propósitos trastornan los valores mundanos.
 

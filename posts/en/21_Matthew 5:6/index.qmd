@@ -1,5 +1,6 @@
 ---
 title: "Blessed Are Those Who Hunger and Thirst for Righteousness"
+image: ../../img/righteousness.webp
 date: "2024-07-30"
 categories:
   - Salvation 
@@ -9,7 +10,7 @@ categories:
 
 ## Blessed are Those who Hunger and Thirst for Righteousness: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:6
 
-![](righteousness.webp){fig-align="center" width="350"}
+![](../../img/righteousness.webp){fig-align="center" width="350"}
 
 In Matthew 5:6, Jesus declares, “Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.” This statement highlights a profound paradox in the upside-down kingdom of God. At first glance, "hungering and thirsting" suggests lack, longing, and an unfulfilled state. Yet, in God's kingdom, those who experience this deep spiritual desire are the ones who are truly blessed because they will find satisfaction, not in the world’s terms but in God’s.
 

@@ -1,5 +1,6 @@
 ---
 title: "Blessed are the Persecuted"
+image: ../../img/persecuted.webp
 date: "2024-07-16"
 categories:
   - Warfare
@@ -9,7 +10,7 @@ categories:
 
 ## Blessed are the Persecuted: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:10
 
-![](persecuted.webp){fig-align="center" width="350"}
+![](../../img/persecuted.webp){fig-align="center" width="350"}
 
 In Matthew 5:10, Jesus states, “Blessed are those who are persecuted for righteousness’ sake, for theirs is the kingdom of heaven.” This Beatitude stands out as a profound paradox in the upside-down kingdom. In a world that equates blessing with comfort, success, and acceptance, Jesus calls "blessed" those who face suffering and rejection because they choose to live righteously.
 

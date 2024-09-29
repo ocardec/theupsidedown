@@ -1,12 +1,13 @@
 ---
 title: "Alcanzando ser Sabios, Siendo Necios"
+image: ../../img/wisefools.webp
 date: "2024-04-23"
-categories: [Necedad, Sabiduría, Mundo]
+categories: [Sabiduría, Mundo]
 ---
 
 ## Alcanzando ser Sabios, Siendo Necios: La Paradoja del Reino Invertido - Una Reflexión Basada en 1 Corintios 3:18-19
 
-![](wisefools.webp){fig-align="center" width="350"}
+![](../../img/wisefools.webp){fig-align="center" width="350"}
 
 En 1 Corintios 3:18-19, el apóstol Pablo escribe: “Que nadie se engañe a sí mismo. Si alguno de ustedes se cree sabio en este mundo, hágase necio para llegar a ser sabio. Porque la sabiduría de este mundo es necedad ante Dios. Pues escrito está: ‘Él prende a los sabios en la astucia de ellos.’” Este pasaje presenta una profunda y desafiante paradoja que se encuentra en el corazón del reino al revés: para llegar a ser verdaderamente sabio, uno debe primero hacerse necio.
 

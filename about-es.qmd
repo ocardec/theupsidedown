@@ -2,9 +2,8 @@
 title: "Propósito"
 about:
   template: "solana"
-  image: img/tud_logo300.png
+  image: _img/tud_logo300.png
   image-shape: rounded
-lang: es
 page-layout: article
 ---
 
@@ -25,7 +24,15 @@ En un mundo donde el éxito se define por el poder, el prestigio y la autopromoc
 
 <br/>
 
-<h5><p style="text-align: right; font-family:fantasy;">Oscar Cardec</p></h5>
+<h5>
+
+<p style="text-align: right; font-family:fantasy;">
+
+Oscar Cardec
+
+</p>
+
+</h5>
 
 <br/>
 

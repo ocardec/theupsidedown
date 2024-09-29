@@ -1,15 +1,16 @@
 ---
 title: "Un Nuevo Nacimiento"
+image: ../../img/reborn.webp
 date: "2024-09-24"
 categories:
   - Humildad
   - Escogidos
-  - Libertad
+  - Propósito
 ---
 
 ## A Menos que Uno Nazca de Nuevo: La Aplicación del Reino Invertido – Una Reflexión Basada en Juan 3:3
 
-![](reborn.webp){fig-align="center" width="350"}
+![](../../img/reborn.webp){fig-align="center" width="350"}
 
 En Juan 3:3, Jesús le dice a Nicodemo: “En verdad te digo que el que no nace de nuevo no puede ver el reino de Dios” (NBLA). Esta declaración no solo sorprendió a Nicodemo, sino que continúa desafiando la comprensión del mundo sobre la vida, la identidad y el propósito. Jesús declara que entrar en el reino de Dios requiere más que esfuerzo humano, comportamiento moral o incluso conocimiento religioso. Requiere una transformación radical: un nuevo nacimiento.
 
@@ -19,7 +20,7 @@ Desde la perspectiva del mundo, el cambio a menudo se ve como un proceso de auto
 
 Sin embargo, en el reino al revés, Jesús enseña que ningún esfuerzo propio o transformación externa es suficiente para entrar en el reino de Dios. No se trata de convertirnos en una mejor versión de nosotros mismos o de lograr éxito externo; se trata de nacer de nuevo, un renacimiento espiritual completo que solo viene a través del Espíritu de Dios. Esto contrasta con la comprensión del mundo sobre el mérito, el desempeño y la autosuficiencia. El mundo dice: "Esfuérzate más, hazlo mejor, y lo lograrás". El reino dice: "Debes ser completamente renovado".
 
-#### La Perspectiva del Reino al Revés 
+#### La Perspectiva del Reino al Revés
 
 En el reino al revés, el concepto de "nacer de nuevo" apunta a una profunda transformación espiritual: una regeneración que no puede lograrse por la fuerza o el esfuerzo humano. Jesús enseña que este nuevo nacimiento es obra del Espíritu Santo, una renovación divina que cambia la naturaleza misma de una persona. Este renacimiento es necesario para entrar en el reino de Dios porque, en el reino de Dios, la vida no se construye en base al esfuerzo humano, sino en la transformación espiritual.
 
@@ -30,7 +31,7 @@ Aquí están los elementos clave de la perspectiva del reino al revés sobre el 
 -   **Dependencia de la gracia de Dios:** En el reino al revés, la entrada a la vida con Dios no es algo que podamos ganar o lograr, es un regalo de gracia. Nacer de nuevo es completamente obra de Dios, y es a través de Su misericordia y amor que somos transformados. Esto desafía la creencia del mundo de que el éxito se basa en el esfuerzo humano y el desempeño.
 -   **Transformación del corazón:** Nacer de nuevo significa experimentar una transformación del corazón. El corazón de piedra es reemplazado por un corazón de carne (Ezequiel 36:26, NBLA). En el mundo, el cambio a menudo es superficial, centrado en el comportamiento o los hábitos. Pero en el reino de Dios, el verdadero cambio ocurre desde el interior cuando el Espíritu Santo renueva y transforma nuestros deseos, pensamientos y acciones.
 
-#### Viviendo el Principio 
+#### Viviendo el Principio
 
 Vivir el principio de nacer de nuevo en el reino al revés significa abrazar una vida que es radicalmente diferente de los valores y prioridades del mundo. Aquí te explico cómo:
 
@@ -39,7 +40,7 @@ Vivir el principio de nacer de nuevo en el reino al revés significa abrazar una
 -   **Depende de la gracia, no del desempeño:** En el reino al revés, el éxito no se mide por el desempeño humano, sino por la gracia de Dios. Vivir este principio significa descansar en la obra terminada de Dios a través de Cristo, sabiendo que tu lugar en Su reino no se gana por obras, sino por la fe en Jesús. También significa extender gracia a los demás, sabiendo que la transformación es obra de Dios en ellos, al igual que en ti.
 -   **Vive con una perspectiva eterna:** Nacer de nuevo abre tus ojos a la realidad del reino de Dios, que es eterno. Esta nueva perspectiva cambia cómo ves tu vida en la tierra: ya no se trata de acumular riquezas, poder o éxito, sino de invertir en lo que durará para siempre. Vivir con esta perspectiva eterna significa priorizar la voluntad de Dios, buscar primero Su reino y vivir por cosas que tienen un significado eterno.
 
-#### La Invitación a Nacer de Nuevo 
+#### La Invitación a Nacer de Nuevo
 
 La invitación de Juan 3:3 es tanto simple como profunda: **¿Escogerás nacer de nuevo y vivir como ciudadano del reino al revés?**
 

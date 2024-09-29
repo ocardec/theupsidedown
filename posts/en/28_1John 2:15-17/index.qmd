@@ -1,12 +1,13 @@
 ---
 title: "Whoever Does the Will of God"
+image: ../../img/rockypath.webp
 date: "2024-09-17"
 categories: [Kingdom, Love, World]
 ---
 
 ## Whoever Does the Will of God: The Upside-Down Kingdom Application – A Reflection on 1 John 2:15-17
 
-![](rockypath.webp){fig-align="center" width="613"}
+![](../../img/rockypath.webp){fig-align="center" width="350"}
 
 In life's journey, many people become distracted, wasting precious time by observing and admiring the stones and rocks along the path, losing sight of the ultimate destination. As in the above image, the contrast between a dark, winding trail through a foreboding forest and the brilliant light that beckons at its end serves as a vivid metaphor for our spiritual walk. While the path is filled with obstacles and allurements that can entangle the heart and divert attention, the true and perfect prize lies beyond — the upward call of God in Christ Jesus.
 

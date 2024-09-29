@@ -1,12 +1,13 @@
 ---
 title: "Dead and Dry"
+image: ../../img/psalm13.jpeg
 date: "2024-06-18"
 categories: [Life, Purpose, Hope]
 ---
 
 ## The Paradox of Flourishing in the Upside-Down Kingdom: A Reflection on Psalm 1:3
 
-![](psalm13.jpeg){fig-align="center" width="350"}
+![](../../img/psalm13.jpeg){fig-align="center" width="350"}
 
 Psalm 1:3 offers a vivid picture of two trees—a flourishing, fruitful tree planted by streams of water, and its contrasting image: a dead, dry tree in a barren place. “He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers” (Psalm 1:3, ESV). On the surface, the message seems simple: those who delight in God’s Word are like the thriving tree, while those who reject it are like the withered one. Yet when viewed through the lens of the upside-down kingdom, the picture takes on a deeper, countercultural meaning.
 

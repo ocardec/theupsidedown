@@ -1,12 +1,13 @@
 ---
 title: "Unless One is Born Again"
+image: ../../img/reborn.webp
 date: "2024-09-24"
-categories: [Freedom, Kingdom, Eternal]
+categories: [Reborn, Kingdom, Eternal]
 ---
 
 ## Unless One is Born Again: The Upside-Down Kingdom Application – A Reflection on John 3:3
 
-![](reborn.webp){fig-align="center" width="350"}
+![](../../img/reborn.webp){fig-align="center" width="350"}
 
 In John 3:3, Jesus says to Nicodemus, “Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God.” This statement not only startled Nicodemus but continues to challenge the world's understanding of life, identity, and purpose. Jesus declares that entry into God’s kingdom requires more than human effort, moral behavior, or even religious knowledge. Instead, it requires a radical transformation—a new birth.
 

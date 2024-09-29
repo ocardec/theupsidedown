@@ -1,12 +1,13 @@
 ---
 title: 'El Condenado es Redimido'
+image: ../../img/uncursed.webp
 date: "2024-08-13"
-categories: [Gracia, Libertad]
+categories: [Salvación, Gracia, Redención]
 ---
 
 ## Redimido de la Maldición: La Aplicación del Reino Invertido – Una Reflexión Basada en Gálatas 3:13
 
-![](uncursed.webp){fig-align="center" width="350"}
+![](../../img/uncursed.webp){fig-align="center" width="350"}
 
 En Gálatas 3:13, el apóstol Pablo escribe: “Cristo nos redimió de la maldición de la ley, habiéndose hecho maldición por nosotros, porque está escrito: ‘Maldito todo el que es colgado en un madero’, a fin de que en Cristo Jesús la bendición de Abraham llegara a los gentiles”. Esta poderosa declaración encapsula la naturaleza radical del evangelio y la sorprendente forma en que Dios trae redención a Su pueblo a través de Su reino al revés.
 

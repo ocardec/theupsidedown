@@ -1,12 +1,13 @@
 ---
 title: "Luces Desapercibidas"
+image: ../../img/matt515.jpeg
 date: "2024-06-04"
-categories: [Visibilidad, Luz, Propósito]
+categories: [Impacto, Luz, Propósito]
 ---
 
 ## Luces Desapercibidas en El Reino de Dios - Una Reflexión Basada en Mateo 5:14-16
 
-![](matt515.jpeg){fig-align="center" width="350"}
+![](../../img/matt515.jpeg){fig-align="center" width="350"}
 
 En Mateo 5:14-16, Jesús llama a Sus seguidores “la luz del mundo,” exhortándolos a no esconder su luz bajo un canasta, sino a dejarla brillar para que otros la vean y glorifiquen al Padre. “Ustedes son la luz del mundo. Una ciudad situada sobre un monte no se puede ocultar; ni se enciende una lámpara y se pone debajo de un almud, sino sobre el candelero, y alumbra a todos los que están en la casa” (Mateo 5:14-15, NBLA). A primera vista, la lección parece simple: nuestra fe debe ser visible, influenciando a los que nos rodean para la gloria de Dios. Pero, vista a través del lente inverso del reino, esta enseñanza adquiere un giro paradójico.
 

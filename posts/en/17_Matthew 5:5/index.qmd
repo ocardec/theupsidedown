@@ -1,5 +1,6 @@
 ---
 title: 'Blessed are the "Meek"'
+image: ../../img/meek.webp
 date: "2024-07-02"
 categories:
   - Humbleness
@@ -10,7 +11,7 @@ categories:
 
 ## Blessed Are the Meek: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:5
 
-![](meek.webp){fig-align="center" width="350"}
+![](../../img/meek.webp){fig-align="center" width="350"}
 
 In Matthew 5:5, Jesus declares, “Blessed are the meek, for they shall inherit the earth.” This statement is another powerful paradox within the teachings of Jesus, reflecting the values of the upside-down kingdom. In a world that often equates meekness with weakness and celebrates assertiveness, dominance, and self-promotion, Jesus turns these values on their head, elevating meekness as the pathway to true inheritance.
 

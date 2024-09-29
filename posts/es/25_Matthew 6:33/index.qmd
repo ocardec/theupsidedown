@@ -1,12 +1,13 @@
 ---
 title: 'El Reino Celestial Primero, Todo lo Demas Segundo'
+image: ../../img/kingdomfirst.webp
 date: "2024-08-27"
 categories: [Eternidad, Reino, Bendición]
 ---
 
 ## Tesoros en el Cielo: La Aplicación del Reino Invertido – Una Reflexión Basada en Mateo 6:19-21
 
-![](kingdomfirst.webp){fig-align="center" width="350"}
+![](../../img/kingdomfirst.webp){fig-align="center" width="350"}
 
 En Mateo 6:33, Jesús declara: “Pero busquen primero su reino y su justicia, y todas estas cosas les serán añadidas.” Este versículo es el clímax de Su enseñanza sobre la ansiedad y las preocupaciones mundanas. Resume un principio central de lo que significa vivir en el “reino invertido”, un reino donde el gobierno y la justicia de Dios tienen prioridad sobre cualquier búsqueda terrenal.
 

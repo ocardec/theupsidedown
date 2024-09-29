@@ -1,12 +1,13 @@
 ---
 title: 'Tesoros en el Cielo'
+image: ../../img/treasures.webp
 date: "2024-08-20"
 categories: [Reino, Eternidad, Bendición]
 ---
 
 ## Tesoros en el Cielo: La Aplicación del Reino Invertido – Una Reflexión Basada en Mateo 6:19-21
 
-![](treasures.webp){fig-align="center" width="350"}
+![](../../img/treasures.webp){fig-align="center" width="350"}
 
 En Mateo 6:19-21, Jesús ofrece una perspectiva radical sobre lo que realmente importa: “No acumulen para sí tesoros en la tierra, donde la polilla y la herrumbre destruyen, y donde los ladrones penetran y roban, sino acumulen para sí tesoros en el cielo, donde ni la polilla ni el óxido destruyen, y donde los ladrones no penetran ni roban. Porque donde esté tu tesoro, allí estará también tu corazón”.
 

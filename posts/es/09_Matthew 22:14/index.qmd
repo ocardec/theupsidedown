@@ -1,16 +1,16 @@
 ---
 title: "Muchos son Llamados, Pocos son Escogidos"
+image: ../../img/invitation.webp
 date: "2024-05-07"
 categories:
-  - Escogidos
   - Vida
-  - Llamados
+  - Escogidos
   - Esperanza
 ---
 
 ## Muchos son Llamados, Pocos son Escogidos: La Paradoja del Reino Invertido – Una Reflexión Basada en Mateo 22:1-14
 
-![](invitation.webp){fig-align="center" width="350"}
+![](../../img/invitation.webp){fig-align="center" width="350"}
 
 En Mateo 22:1-14, Jesús comparte la Parábola del Banquete de Bodas, en la que un rey convoca a muchos invitados a la celebración del matrimonio de su hijo. A pesar del honor de ser invitados, muchos se niegan a venir, ofreciendo excusas o incluso maltratando a los mensajeros del rey. En respuesta, el rey abre su banquete a todos los que sus siervos puedan encontrar, tanto “malos como buenos”, llenando el salón con invitados inesperados. Sin embargo, cuando el rey llega, nota a un invitado que no lleva vestiduras de boda y lo expulsa. Jesús concluye la parábola con la poderosa declaración: “Porque muchos son llamados, pero pocos son escogidos” (Mateo 22:14).
 

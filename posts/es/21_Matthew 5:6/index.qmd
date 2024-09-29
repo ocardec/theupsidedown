@@ -1,5 +1,6 @@
 ---
 title: "Bienaventurados los que Tienen Hambre y Sed de Justicia"
+image: ../../img/righteousness.webp
 date: "2024-07-30"
 categories:
   - Salvación 
@@ -9,7 +10,7 @@ categories:
 
 ## La Buena Vida Pertenece los que Tienen Hambre y Sed de Justicia: La Paradoja del Reino Invertido – Una Reflexión Basada en Mateo 5:6
 
-![](righteousness.webp){fig-align="center" width="350"}
+![](../../img/righteousness.webp){fig-align="center" width="350"}
 
 En Mateo 5:6, Jesús declara: “Bienaventurados los que tienen hambre y sed de justicia, pues ellos serán saciados”. Esta declaración destaca una profunda paradoja en el reino al revés de Dios. A primera vista, "tener hambre y sed" sugiere carencia, anhelo y un estado de insatisfacción. Sin embargo, en el reino de Dios, aquellos que experimentan este profundo deseo espiritual son los verdaderamente bienaventurados, porque encontrarán satisfacción, no en términos del mundo, sino en Dios.
 

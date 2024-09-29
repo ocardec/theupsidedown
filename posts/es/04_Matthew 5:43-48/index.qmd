@@ -1,12 +1,13 @@
 ---
 title: "Ama a tus Enemigos"
+image: ../../img/loveandforgive.jpeg
 date: "2024-04-02"
-categories: [Amor, Enemigo, Reino, Gracia]
+categories: [Amor, Reino, Gracia]
 ---
 
 ## Ama a tus Enemigos: El Corazón Radical en el Reino Invertido de Dios - Una Reflexion Basada en Mateo 5:43-48
 
-![](loveandforgive.jpeg){fig-align="center" width="350"}
+![](../../img/loveandforgive.jpeg){fig-align="center" width="350"}
 
 En Mateo 5:43-48, Jesús da una de las órdenes más desafiantes en toda la Escritura: “Ustedes han oído que se dijo: ‘Amarás a tu prójimo y odiarás a tu enemigo.’ Pero Yo les digo: amen a sus enemigos y oren por los que los persiguen” (Mateo 5:43-44). Esta enseñanza golpea el corazón mismo del reino invertido, donde los estándares y valores de Dios no solo son diferentes a los del mundo, sino a menudo completamente opuestos a ellos. El mundo enseña que debemos amar a quienes nos aman y devolver el bien por el bien, pero Jesús da un giro a esta idea al mandar a Sus seguidores que respondan al odio con amor y a la persecución con oración.
 

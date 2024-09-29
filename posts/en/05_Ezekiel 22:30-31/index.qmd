@@ -1,12 +1,13 @@
 ---
 title: "Standing in the Breach"
+image: ../../img/lonely.jpeg
 date: "2024-04-09"
 categories: [Love, Enemy, Warfare]
 ---
 
 ## Standing in the Gap: The Upside-Down Kingdom’s Call to Humble Intercession – A Reflection on Ezekiel 22:30-31
 
-![](lonely.jpeg){fig-align="center" width="350"}
+![](../../img/lonely.jpeg){fig-align="center" width="350"}
 
 In Ezekiel 22:30-31, God declares, “And I sought for a man among them who should build up the wall and stand in the breach before me for the land, that I should not destroy it, but I found none. Therefore I have poured out my indignation upon them. I have consumed them with the fire of my wrath; I have returned their way upon their heads, declares the Lord GOD.” This passage is often understood as a powerful call for courageous, godly leadership—someone willing to stand in the gap, to intercede, and to avert God’s judgment on behalf of the people. But how does this passage speak to the values of the upside-down kingdom that Jesus inaugurated?
 
