@@ -1,11 +1,11 @@
 ---
+title: "¡Bienvenidos al Blog Invertido!"
 listing:
   sort: "date desc"
   type: grid
   contents: posts/es
+  fields: [image, date, title, reading-time, categories]
   page-size: 9
-  # feed:
-  #   items: 5
   categories: true
   sort-ui: false
   filter-ui: false
@@ -19,8 +19,10 @@ Este, torna nuestras suposiciones al revés y desafía nuestra comprensión del 
 
 En el reino invertido de Dios, los últimos son los primeros, los más pequeños son los más grandes, y los humildes son exaltados. Aquí, la luz conquista la oscuridad, la vida triunfa sobre la muerte, y la cruz, que antes era un símbolo de vergüenza, se convierte en la piedra angular de la esperanza y la salvación. Este blog invertido existe para explorar y celebrar las profundas y paradójicas verdades que definen el Reino de Dios. Busca invitar a los lectores a abrazar los caminos contra-intuitivos y contra-culturales de Jesús en un mundo que cada vez está mas desesperado por encontrar significado.
 
+<br/>
+
 ------------------------------------------------------------------------
 
 <br/>
 
-<link rel="icon" type="image/png" href="img/tud_logo2"/>
+<link rel="icon" type="image/png" href="/_img/tud_logo2"/>

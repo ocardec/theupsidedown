@@ -1,12 +1,13 @@
 ---
 title: "El Sirviente es el más Grande"
+image: ../../img/service.jpeg
 date: "2024-03-26"
 categories: [Humildad, Amor, Servicio]
 ---
 
 ## El Sirviente es el más Grande: Una Reflexión Sobre el Reino Invertido de Dios Basada en Mateo 20:26
 
-![](service.jpeg){fig-align="center" width="350"}
+![](../../img/service.jpeg){fig-align="center" width="350"}
 
 En Mateo 20:26, Jesús hace una declaración sorprendente que desafía todo lo que el mundo valora: “Pero entre ustedes no es así, sino que el que quiera hacerse grande entre ustedes será su servidor, y el que quiera ser el primero entre ustedes será su esclavo”. En una sociedad donde la grandeza a menudo se asocia con el poder, la influencia y el prestigio, Jesús da un giro a esta idea definiendo la verdadera grandeza como el servicio, específicamente, el servicio de un esclavo. En el reino invertido, aquel que se humilla más, o es más humilde, es el que verdaderamente es exaltado.
 

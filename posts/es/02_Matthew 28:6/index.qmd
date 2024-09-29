@@ -1,12 +1,13 @@
 ---
 title: "Vida a Travês de la Muerte"
+image: ../../img/matt286.jpeg 
 date: "2024-03-19"
-categories: [Vida, Muerte, Fe, Esperanza]
+categories: [Vida, Muerte, Esperanza]
 ---
 
 ## Vida a Través de la Muerte: La Paradoja Definitiva del Reino Invertido de Dios – Una Reflexión Basada en Mateo 28:6
 
-![](matt286.jpeg){fig-align="center" width="350"}
+![](../../img/matt286.jpeg){fig-align="center" width="350"}
 
 La resurrección de Jesucristo es la piedra angular de la fe cristiana, un momento que declara la victoria sobre el pecado y la muerte. (Mateo 28:6) captura este acontecimiento profundo: “No está aquí, porque ha resucitado, tal como dijo. Vengan, vean el lugar donde estaba acostado”. En este solo versículo, se revela la paradoja en el corazón del reino al revés: la vida surge de la muerte. La misma noción de que la muerte pudiera producir vida contraviene todo instinto natural y expectativa mundana. Sin embargo, en el reino de Dios, el camino hacia la verdadera vida es a través de la muerte: muerte al yo, muerte al pecado y, en el caso de Cristo, muerte literal.
 

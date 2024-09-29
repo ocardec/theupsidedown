@@ -1,12 +1,13 @@
 ---
 title: 'The Condemned is Redeemed'
+image: ../../img/uncursed.webp
 date: "2024-08-13"
 categories: [Lost, Grace, Redemption]
 ---
 
 ## Redeemed from the Curse: The Upside-Down Kingdom Application – A Reflection on Galatians 3:13
 
-![](uncursed.webp){fig-align="center" width="350"}
+![](../../img/uncursed.webp){fig-align="center" width="350"}
 
 In Galatians 3:13, the Apostle Paul writes, “Christ redeemed us from the curse of the law by becoming a curse for us, for it is written, ‘Cursed is everyone who is hanged on a tree,’ so that in Christ Jesus the blessing of Abraham might come to the Gentiles.” This powerful statement encapsulates the radical nature of the gospel and the surprising, upside-down way that God brings redemption to His people.
 

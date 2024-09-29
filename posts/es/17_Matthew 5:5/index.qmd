@@ -1,5 +1,6 @@
 ---
 title: 'Bienaventurados los Humildes'
+image: ../../img/meek.webp
 date: "2024-07-02"
 categories:
   - Humildad
@@ -9,7 +10,7 @@ categories:
 
 ## La Buena Vida Pertenece a Los Humildes: La Paradoja del Reino Invertido de Dios – Una Reflexión Basada en Mateo 5:5
 
-![](meek.webp){fig-align="center" width="350"}
+![](../../img/meek.webp){fig-align="center" width="350"}
 
 En Mateo 5:5, Jesús declara: “Bienaventurados los humildes, pues ellos heredarán la tierra.” Esta declaración es otra poderosa paradoja dentro de las enseñanzas de Jesús, que refleja los valores del reino invertido. En un mundo que a menudo asimila la humildad con la debilidad y celebra la asertividad, el dominio y la autopromoción, Jesús invierte estos valores, elevando la humildad como el camino hacia la verdadera herencia.
 

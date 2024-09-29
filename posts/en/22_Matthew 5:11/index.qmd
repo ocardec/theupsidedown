@@ -1,12 +1,13 @@
 ---
 title: 'Blessed are the "Insulted"'
+image: ../../img/insulted.webp
 date: "2024-08-06"
 categories: [Beatitudes, Eternal, Brokenness]
 ---
 
 ## Blessed Are the Insulted: The Upside-Down Kingdom Application – A Reflection on Matthew 5:11
 
-![](insulted.webp){fig-align="center" width="350"}
+![](../../img/insulted.webp){fig-align="center" width="350"}
 
 In Matthew 5:11, Jesus proclaims, "Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account." This Beatitude offers a surprising perspective: those who face insults, false accusations, and verbal abuse for their faithfulness to Jesus are, in fact, blessed. This statement challenges the conventional understanding of blessing and reveals the countercultural values of God's upside-down kingdom.
 

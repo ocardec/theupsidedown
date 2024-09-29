@@ -1,5 +1,6 @@
 ---
 title: "El Pastor Se Convierte en Rey"
+image: ../../img/annointed.webp
 date: "2024-07-23"
 categories:
   - Humildad
@@ -9,7 +10,7 @@ categories:
 
 ## El Pastor Se Convierte en Rey: La Aplicación del Reino Invertido – Una Reflexión Basada en 1 Samuel 16:1-13
 
-![](annointed.webp){fig-align="center" width="350"}
+![](../../img/annointed.webp){fig-align="center" width="350"}
 
 En 1 Samuel 16:1-13, encontramos la historia de David, un joven pastor que es ungido por el profeta Samuel para convertirse en el próximo rey de Israel. Esta narrativa ilustra un principio central del reino invertido: Dios a menudo elige a los menos probables, a los pasados por alto y a los humildes para cumplir Sus mayores propósitos.
 

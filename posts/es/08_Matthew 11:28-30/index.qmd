@@ -1,12 +1,13 @@
 ---
 title: "Descansando Bajo un Yugo"
+image: ../../img/easyyoke.webp
 date: "2024-04-30"
-categories: [Vida, Descanso, Libertad]
+categories: [Vida, Libertad]
 ---
 
 ## Descansando Bajo un Yugo: La Paradoja del Reino Invertido – Una Reflexión Basada en Mateo 11:28-30
 
-![](easyyoke.webp){fig-align="center" width="350"}
+![](../../img/easyyoke.webp){fig-align="center" width="350"}
 
 En Mateo 11:28-30, Jesús extiende una hermosa y paradójica invitación: “Vengan a Mí, todos los que están cansados y cargados, y Yo los haré descansar. Tomen Mi yugo sobre ustedes y aprendan de Mí, que Yo soy manso y humilde de corazón, y hallarán descanso para sus almas. Porque Mi yugo es fácil y Mi carga ligera.” A primera vista, la idea de encontrar descanso bajo un yugo parece contradictoria. Un yugo es un símbolo de trabajo, carga y sumisión. Sin embargo, en el reino al revés que Jesús proclama, es precisamente al tomar Su yugo que encontramos verdadero descanso para nuestras almas.
 

@@ -1,12 +1,13 @@
 ---
 title: "Salvando Tu Vida, Perdiéndola en el Señor"
+image: ../../img/deatorlife.webp
 date: "2024-04-16"
 categories: [Vida, Salvación, Muerte]
 ---
 
 ## Salvando Tu Vida, Perdiéndola: La Paradoja del Reino Invertido de Dios – Una Reflexión Basada en Mateo 16:25
 
-![](deatorlife.webp){fig-align="center" width="350"}
+![](../../img/deatorlife.webp){fig-align="center" width="350"}
 
 En Mateo 16:25, Jesús dice: "Porque el que quiera salvar su vida, la perderá; pero el que pierda su vida por causa de Mí, la hallará". Esta declaración es una de las enseñanzas más profundas y paradójicas de toda la Escritura. Encapsula la naturaleza invertida del reino de Dios, donde todo está al revés: la forma de ascender es descender, la manera de recibir es dar, y la forma de vivir es morir.
 

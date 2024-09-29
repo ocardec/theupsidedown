@@ -1,12 +1,13 @@
 ---
 title: "Saving Your Life by Losing It"
+image: ../../img/deatorlife.webp
 date: "2024-04-16"
 categories: [Life, Salvation, Death]
 ---
 
 ## Saving Your Life by Losing It: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 16:25
 
-![](deatorlife.webp){fig-align="center" width="350"}
+![](../../img/deatorlife.webp){fig-align="center" width="350"}
 
 In Matthew 16:25, Jesus says, “For whoever would save his life will lose it, but whoever loses his life for my sake will find it.” This statement is one of the most profound and paradoxical teachings in all of Scripture. It encapsulates the upside-down nature of God’s kingdom, where everything is turned on its head: the way up is down, the way to receive is to give, and the way to live is to die.
 

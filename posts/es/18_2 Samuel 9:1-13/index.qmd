@@ -1,5 +1,6 @@
 ---
 title: 'El Lisiado Tiene Lugar en la Mesa'
+image: ../../img/mephibosheth.webp
 date: "2024-07-09"
 categories:
   - Amor
@@ -9,7 +10,7 @@ categories:
 
 ## El Invalido Tiene Lugar en la Mesa - Una Reflexión Basada en 2 Samuel 9:1-13
 
-![](mephibosheth.webp){fig-align="center" heigh="524" width="500"}
+![](../../img/mephibosheth.webp){fig-align="center" heigh="350" width="613"}
 
 En 2 Samuel 9:1-13, encontramos la notable historia de la bondad del rey David hacia Mefiboset, el hijo lisiado de Jonatán y nieto de Saúl. Esta narración ilustra hermosamente la gracia del reino invertido, donde Dios invita a los indignos, los marginados y los quebrantados a sentarse en Su mesa como iguales, derramando amor y favor sobre ellos.
 

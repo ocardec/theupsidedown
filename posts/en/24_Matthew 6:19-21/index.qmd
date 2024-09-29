@@ -1,12 +1,13 @@
 ---
 title: 'Treasures in Heaven'
+image: ../../img/treasures.webp
 date: "2024-08-20"
 categories: [Kingdom, Eternal, Blessing]
 ---
 
 ## Treasures in Heaven: The Upside-Down Kingdom Application – A Reflection on Matthew 6:19-21
 
-![](treasures.webp){fig-align="center" width="350"}
+![](../../img/treasures.webp){fig-align="center" width="350"}
 
 In Matthew 6:19-21, Jesus offers a radical perspective on what truly matters: “Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. For where your treasure is, there your heart will be also.”
 

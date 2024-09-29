@@ -1,12 +1,13 @@
 ---
 title: "Observando Cosas Invisibles"
+image: ../../img/seeUnseen.webp
 date: "2024-05-14"
 categories: [Salvación, "Guerra Espiritual", Eternidad]
 ---
 
 ## Observando Cosas Invisibles: La Paradoja del Reino Invertido – Una Reflexión Basada en 2 Corintios 4:18
 
-![](seeUnseen.webp){fig-align="center" width="350"}
+![](../../img/seeUnseen.webp){fig-align="center" width="350"}
 
 En 2 Corintios 4:18, el apóstol Pablo escribe: “No mirando nosotros las cosas que se ven, sino las que no se ven; porque las cosas que se ven son temporales, pero las que no se ven son eternas.” Este versículo nos invita a la realidad paradójica del reino invertido, donde la verdadera visión no se determina por lo visible, sino por lo invisible. Nos desafía a cambiar nuestro enfoque de lo temporal a lo eterno, de lo material a lo espiritual, y de lo pasajero a lo perdurable.
 

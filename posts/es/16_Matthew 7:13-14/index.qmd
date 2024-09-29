@@ -1,12 +1,13 @@
 ---
 title: "Un Camino Estrecho que Brinda Vida"
+image: ../../img/twogates.webp
 date: "2024-06-25"
-categories: [Vida, Muerte, "Guerra Espiritual", Eternidad]
+categories: [Vida, "Guerra Espiritual", Eternidad]
 ---
 
 ## Un Camino Angosto que Conduce a La Vida Eterna: El Camino Sorprendente del Reino de Los Cielos – Una Reflexión Basada en Mateo 7:13-14
 
-![](twogates.webp){fig-align="center" width="350"}
+![](../../img/twogates.webp){fig-align="center" width="350"}
 
 En Mateo 7:13-14, Jesús presenta una elección clara: “Entren por la puerta estrecha, porque ancha es la puerta y amplia la senda que lleva a la perdición, y muchos son los que entran por ella. Pero angosta es la puerta y estrecha la senda que lleva a la vida, y pocos son los que la hallan.” Este pasaje captura una de las paradojas centrales del reino invertido: el camino hacia la verdadera vida no se encuentra en la vía ancha y fácil que muchos eligen, sino a través de una puerta estrecha y difícil que pocos están dispuestos a atravesar.
 

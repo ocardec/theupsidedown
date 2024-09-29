@@ -1,12 +1,13 @@
 ---
 title: 'His Rejection, Our Salvation'
+image: ../../img/thelight.webp
 date: "2024-09-03"
 categories: [Salvation, Jesus, Chosen]
 ---
 
 ## His Rejection, Our Salvation: The Upside-Down Kingdom Application – A Reflection on John 1:10-12
 
-![](thelight.webp){fig-align="center" width="350"}
+![](../../img/thelight.webp){fig-align="center" width="350"}
 
 In the Gospel of John, we find a profound and poignant statement about Christ's earthly ministry: “He was in the world, and the world was made through Him, yet the world did not know Him. He came to His own, and His own people did not receive Him” (John 1:10-11). This rejection of Jesus by the very people He came to save is a crucial reflection of the "upside-down kingdom"—a kingdom where God's ways defy human expectations, and His purposes overturn worldly values.
 

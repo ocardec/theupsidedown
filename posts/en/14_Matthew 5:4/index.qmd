@@ -1,5 +1,6 @@
 ---
 title: 'Blessed are those who "Grieve"'
+image: ../../img/grieving.webp
 date: "2024-06-11"
 categories:
   - Purpose
@@ -9,7 +10,7 @@ categories:
 
 ## Blessed Are Those Who Mourn: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:4
 
-![](grieving.webp){fig-align="center" width="350"}
+![](../../img/grieving.webp){fig-align="center" width="350"}
 
 In Matthew 5:4, Jesus declares, “Blessed are those who mourn, for they shall be comforted.” This statement is another powerful paradox that characterizes the upside-down kingdom of God. In a world that often shuns sorrow and promotes happiness at any cost, Jesus elevates mourning as a blessed state, promising comfort to those who experience it.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Blessed are the "Powerless"'
+image: ../../img/powerless.webp
 date: "2024-05-28"
 categories:
   - Humbleness
@@ -9,7 +10,7 @@ categories:
 
 ## Blessed Are the Poor in Spirit: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:3
 
-![](powerless.webp){fig-align="center" width="350"}
+![](../../img/powerless.webp){fig-align="center" width="350"}
 
 In Matthew 5:3, Jesus begins the Sermon on the Mount with a profound and countercultural statement: “Blessed are the poor in spirit, for theirs is the kingdom of heaven.” This declaration immediately sets the tone for the upside-down kingdom Jesus came to proclaim—a kingdom where those who are spiritually humble, needy, broken, incapable, or dependent are the ones truly blessed.
 
