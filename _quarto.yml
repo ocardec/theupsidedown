@@ -73,4 +73,11 @@ format:
         light: flatly
     css: _html/styles.css
     toc: false 
-editor: visual
+editor: source
+
+babelquarto:
+  languagecodes:
+  - name: en
+    text: "Version in en"
+  mainlanguage: 'en'
+lang: en
