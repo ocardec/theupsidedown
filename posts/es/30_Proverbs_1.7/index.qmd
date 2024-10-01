@@ -1,11 +1,11 @@
 ---
-title: "Fuente de Saviduría"
+title: "Fuente de Sabiduría"
 image: ../../img/wisdom.webp
 date: "2024-10-01"
-categories: [Saviduría, Relación, Reverencia]
+categories: [Sabiduría, Relación, Reverencia]
 ---
 
-## El Temor del Señor es Fuente de Saviduría
+## El Temor del Señor es la Fuente de Sabiduría
 
 ![](/posts/img/wisdom.webp){fig-align="center" width="400"}
 
