@@ -38,6 +38,6 @@ En un mundo donde el éxito se define por el poder, el prestigio y la autopromoc
 
 ### Licencia
 
--   [GNU General Public License](html/LICENSE){target="_blank"}
+-   [GNU General Public License](_html/LICENSE){target="_blank"}
 
 ------------------------------------------------------------------------

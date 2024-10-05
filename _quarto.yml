@@ -10,7 +10,6 @@ website:
     pinned: false
     collapse: true
     logo: _img/tud_logo2.png
-    logo-alt: "The Upside-Down"
     left:
       - text: "Home"
         href: index-en.qmd
@@ -39,7 +38,7 @@ website:
     left: |
       <span class="faux-block">&#169; Copyright 2024 Cardec Solutions</span>
     center: |
-      <span class="faux-block">Created in<a href="https://quarto.org" target="_blank"><img src="/_img/quarto.png" width="65"></a></span>
+      <span class="faux-block">Created in<a href="https://quarto.org" target="_blank"><img src="_img/quarto.png" width="65"></a></span>
     right: |
       <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">Navigate the Way️</a></span>
 project:
@@ -74,10 +73,3 @@ format:
     css: _html/styles.css
     toc: false 
 editor: source
-
-babelquarto:
-  languagecodes:
-  - name: en
-    text: "Version in en"
-  mainlanguage: 'en'
-lang: en

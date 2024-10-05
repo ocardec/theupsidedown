@@ -47,8 +47,8 @@ Oscar Cardec
 
 ### License
 
--   [GNU General Public License](html/LICENSE){target="_blank"}
+-   [GNU General Public License](_html/LICENSE){target="_blank"}
 
 ------------------------------------------------------------------------
 
-<link rel="icon" type="image/png" href="/_img/tud_logo2"/>
+<link rel="icon" type="image/png" href="_img/tud_logo2"/>
