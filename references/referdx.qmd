@@ -7,7 +7,7 @@ title-block-banner: true
 ---
 
 |  |  |
-|:---|:---|
+|:-----------------------------------|:------------------------------------------------|
 | ![](_img/bibleapp.png){width="150"} | [**YouVersion**](https://www.bible.com){target="_blank"} \| A free Bible App equipped with more than 2,400 Bible version, and translated in over 1,600 languages. |
 | ![](_img/bibleproject.png){width="150"} | [**BibleProject**](https://bibleproject.com){target="_blank"} \| A nonprofit, crowdfunded organization that makes free resources to help people experience the Bible in a way that is approachable and transformative. |
 | ![](_img/faithtech.png){width="150"} | [**FaithTech**](https://faithtech.com){target="_blank"} \| A global tech community bridging the gap between Faith and Technology to help people in the tech ecosystem find community and steward their skills to glorify God. |
