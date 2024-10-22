@@ -3,7 +3,7 @@ title: "¡Bienvenidos al Blog Invertido!"
 listing:
   sort: "date desc"
   type: grid
-  contents: posts/es
+  contents: /posts/es
   fields: [image, date, title, reading-time, categories]
   page-size: 6
   categories: true

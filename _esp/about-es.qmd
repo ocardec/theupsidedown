@@ -2,7 +2,7 @@
 title: "Propósito"
 about:
   template: "solana"
-  image: _img/tud_logo300.png
+  image: images/tud_logo300.png
   image-shape: rounded
 page-layout: article
 ---
@@ -38,6 +38,6 @@ En un mundo donde el éxito se define por el poder, el prestigio y la autopromoc
 
 ### Licencia
 
--   [GNU General Public License](_html/LICENSE){target="_blank"}
+-   [GNU General Public License](_html/LICENSE.txt){target="_blank"}
 
 ------------------------------------------------------------------------
