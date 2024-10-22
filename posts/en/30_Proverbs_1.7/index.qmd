@@ -2,7 +2,7 @@
 title: "Source of Wisdom"
 image: ../../img/wisdom.webp
 date: "2024-10-01"
-categories: [Wisdom, Kingdom, Relationship]
+categories: [Wisdom, Grace, Relationship]
 ---
 
 ## The Fear of the Lord is the Source of Wisdom

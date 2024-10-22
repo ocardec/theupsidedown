@@ -2,7 +2,7 @@
 title: 'Tesoros en el Cielo'
 image: ../../img/treasures.webp
 date: "2024-08-20"
-categories: [Reino, Eternidad, Bendición]
+categories: [Gracia, Eternidad, Bendición]
 ---
 
 ## Tesoros en el Cielo: La Aplicación del Reino Invertido – Una Reflexión Basada en Mateo 6:19-21

@@ -2,7 +2,7 @@
 title: "Warriors of The Kingdowm"
 image: ../../img/kingofkings.webp
 date: "2024-10-15"
-categories: [Warrior, Kingdom, "Eternal Life"]
+categories: [Purpose, Redemption, Eternity]
 ---
 
 ## Warriors in the Kingdom of God

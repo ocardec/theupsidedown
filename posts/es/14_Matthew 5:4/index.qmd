@@ -2,7 +2,7 @@
 title: 'Bienaventurados los Afligidos'
 image: ../../img/grieving.webp
 date: "2024-06-11"
-categories: [Propósito, Quebrantamiento, Bienaventuranzas]
+categories: [Propósito, Sacrificio, Bienaventuranzas]
 ---
 
 ## Bienaventurados los Afligidos: La Paradoja del Reino Invertido – Una Reflexión Basada en Mateo 5:4

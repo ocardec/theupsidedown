@@ -2,7 +2,7 @@
 title: 'Treasures in Heaven'
 image: ../../img/treasures.webp
 date: "2024-08-20"
-categories: [Kingdom, Eternal, Blessing]
+categories: [Redemption, Eternity, Blessing]
 ---
 
 ## Treasures in Heaven: The Upside-Down Kingdom Application – A Reflection on Matthew 6:19-21

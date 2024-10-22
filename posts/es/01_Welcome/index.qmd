@@ -1,7 +1,7 @@
 ---
 title: "Bienvenidos al Blog Invertido"
 image: ../../img/upsidedown2.png
-categories: [Esperanza, Reino, Gracia, Salvación]
+categories: [Esperanza, Gracia, Salvación]
 ---
 
 ## El Blog del Reino Invertido

@@ -2,10 +2,7 @@
 title: 'Blessed are those who "Grieve"'
 image: ../../img/grieving.webp
 date: "2024-06-11"
-categories:
-  - Purpose
-  - Brokenness
-  - Beatitudes 
+categories: [Purpose, Sacrifice, Beatitudes]
 ---
 
 ## Blessed Are Those Who Mourn: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:4

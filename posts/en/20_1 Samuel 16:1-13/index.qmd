@@ -2,10 +2,7 @@
 title: "The Shepherd Boy Becomes the King"
 image: ../../img/annointed.webp
 date: "2024-07-23"
-categories:
-  - Humbleness
-  - Chosen
-  - Purpose
+categories: [Humbleness, Chosen, Purpose]
 ---
 
 ## The Shepherd Boy Becomes the King: The Upside-Down Kingdom Application – A Reflection on 1 Samuel 16:1-13

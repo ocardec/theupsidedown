@@ -2,7 +2,7 @@
 title: "Fuente de Sabiduría"
 image: ../../img/wisdom.webp
 date: "2024-10-01"
-categories: [Sabiduría, Relación, Reverencia]
+categories: [Sabiduría, Bendición, Reverencia]
 ---
 
 ## El Temor del Señor es la Fuente de Sabiduría
