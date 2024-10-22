@@ -1,11 +1,11 @@
 ---
-title: "Alcanzando ser Sabios, Siendo Necios"
+title: "Alcanzando ser Sabios, Siendo Ignorantes"
 image: ../../img/wisefools.webp
 date: "2024-04-23"
-categories: [Sabiduría, Mundo]
+categories: [Sabiduría, Mundo, Confianza]
 ---
 
-## Alcanzando ser Sabios, Siendo Necios: La Paradoja del Reino Invertido - Una Reflexión Basada en 1 Corintios 3:18-19
+## Alcanzando ser Sabios, Siendo Ignorantes: La Paradoja del Reino Invertido - Una Reflexión Basada en 1 Corintios 3:18-19
 
 ![](../../img/wisefools.webp){fig-align="center" width="350"}
 

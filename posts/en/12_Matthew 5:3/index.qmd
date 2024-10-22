@@ -2,10 +2,7 @@
 title: 'Blessed are the "Powerless"'
 image: ../../img/powerless.webp
 date: "2024-05-28"
-categories:
-  - Humbleness
-  - Beatitudes
-  - Purpose 
+categories: [Humbleness, Beatitudes, Purpose] 
 ---
 
 ## Blessed Are the Poor in Spirit: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:3

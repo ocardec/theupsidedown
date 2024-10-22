@@ -2,10 +2,7 @@
 title: "Blessed are the Persecuted"
 image: ../../img/persecuted.webp
 date: "2024-07-16"
-categories:
-  - Warfare
-  - Beatitudes
-  - Hope
+categories: [Warfare, Beatitudes, Hope]
 ---
 
 ## Blessed are the Persecuted: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:10

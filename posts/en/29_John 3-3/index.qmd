@@ -2,7 +2,7 @@
 title: "Unless One is Born Again"
 image: ../../img/reborn.webp
 date: "2024-09-24"
-categories: [Reborn, Kingdom, Eternal]
+categories: ["Born Again", Life, Eternity]
 ---
 
 ## Unless One is Born Again: The Upside-Down Kingdom Application – A Reflection on John 3:3

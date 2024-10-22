@@ -2,7 +2,7 @@
 title: "Guerreros del Reino"
 image: ../../img/kingofkings.webp
 date: "2024-10-15"
-categories: [Guerrero, Reino, "Vida Eterna"]
+categories: ["Guerra Espiritual", Vida, Eternidad]
 editor: 
   markdown: 
     wrap: sentence

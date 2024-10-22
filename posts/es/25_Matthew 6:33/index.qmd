@@ -2,10 +2,10 @@
 title: 'El Reino Celestial Primero, Todo lo Demas Segundo'
 image: ../../img/kingdomfirst.webp
 date: "2024-08-27"
-categories: [Eternidad, Reino, Bendición]
+categories: [Eternidad, Vida, Bendición]
 ---
 
-## Tesoros en el Cielo: La Aplicación del Reino Invertido – Una Reflexión Basada en Mateo 6:19-21
+## El Reino Celestial Primero: La Aplicación del Reino Invertido – Una Reflexión Basada en Mateo 6:19-21
 
 ![](../../img/kingdomfirst.webp){fig-align="center" width="350"}
 

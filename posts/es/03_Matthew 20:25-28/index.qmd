@@ -1,8 +1,8 @@
 ---
-title: "El Sirviente es el más Grande"
+title: "El Esclavo es el más Grande"
 image: ../../img/service.jpeg
 date: "2024-03-26"
-categories: [Humildad, Amor, Servicio]
+categories: [Humildad, Amor, Servir]
 ---
 
 ## El Sirviente es el más Grande: Una Reflexión Sobre el Reino Invertido de Dios Basada en Mateo 20:26

@@ -2,7 +2,7 @@
 title: "Life From Death"
 image: ../../img/matt286.jpeg
 date: "2024-03-19"
-categories: [Life, Death, Faith, Hope]
+categories: [Life, Death, Hope]
 ---
 
 ## Life from Death: The Ultimate Paradox of the Upside-Down Kingdom – A Reflection on Matthew 28:6

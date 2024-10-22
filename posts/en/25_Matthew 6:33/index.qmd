@@ -2,10 +2,10 @@
 title: 'The Kingdom First, Everything Else Second'
 image: ../../img/kingdomfirst.webp
 date: "2024-08-27"
-categories: [Eternal, Kingdom, Blessing]
+categories: [Eternity, Purpose, Blessing]
 ---
 
-## Treasures in Heaven: The Upside-Down Kingdom Application – A Reflection on Matthew 6:19-21
+## The Kingdom First: The Upside-Down Kingdom Application – A Reflection on Matthew 6:19-21
 
 ![](../../img/kingdomfirst.webp){fig-align="center" width="350"}
 

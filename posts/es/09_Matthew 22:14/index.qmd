@@ -2,10 +2,7 @@
 title: "Muchos son Llamados, Pocos son Escogidos"
 image: ../../img/invitation.webp
 date: "2024-05-07"
-categories:
-  - Vida
-  - Escogidos
-  - Esperanza
+categories: [Vida, Escogidos, Esperanza]
 ---
 
 ## Muchos son Llamados, Pocos son Escogidos: La Paradoja del Reino Invertido – Una Reflexión Basada en Mateo 22:1-14

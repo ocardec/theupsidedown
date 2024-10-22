@@ -2,10 +2,7 @@
 title: "Bienaventurados los que Tienen Hambre y Sed de Justicia"
 image: ../../img/righteousness.webp
 date: "2024-07-30"
-categories:
-  - Salvación 
-  - Bienaventuranzas
-  - Justicia
+categories: [Salvación, Bienaventuranzas, Redención]
 ---
 
 ## La Buena Vida Pertenece los que Tienen Hambre y Sed de Justicia: La Paradoja del Reino Invertido – Una Reflexión Basada en Mateo 5:6

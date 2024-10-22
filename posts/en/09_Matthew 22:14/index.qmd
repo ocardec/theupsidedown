@@ -2,10 +2,7 @@
 title: "Many are Called, Few are Chosen"
 image: ../../img/invitation.webp
 date: "2024-05-07"
-categories:
-  - Chosen
-  - Life
-  - Hope
+categories: [Chosen, Life, Hope]
 ---
 
 ## Many Are Called, But Few Are Chosen: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 22:1-14

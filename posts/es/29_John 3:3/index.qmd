@@ -2,10 +2,7 @@
 title: "Un Nuevo Nacimiento"
 image: ../../img/reborn.webp
 date: "2024-09-24"
-categories:
-  - Humildad
-  - Escogidos
-  - Propósito
+categories: [Humildad, Eternidad, Propósito]
 ---
 
 ## A Menos que Uno Nazca de Nuevo: La Aplicación del Reino Invertido – Una Reflexión Basada en Juan 3:3

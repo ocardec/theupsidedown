@@ -2,10 +2,7 @@
 title: "Blessed Are Those Who Hunger and Thirst for Righteousness"
 image: ../../img/righteousness.webp
 date: "2024-07-30"
-categories:
-  - Salvation 
-  - Beatitudes
-  - Hope
+categories: [Salvation, Beatitudes, Hope]
 ---
 
 ## Blessed are Those who Hunger and Thirst for Righteousness: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:6

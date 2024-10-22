@@ -2,11 +2,7 @@
 title: 'Blessed are the "Meek"'
 image: ../../img/meek.webp
 date: "2024-07-02"
-categories:
-  - Humbleness
-  - Hope
-  - Brokenness
-  - Beatitudes
+categories: [Humbleness, Sacrifice, Beatitudes]
 ---
 
 ## Blessed Are the Meek: The Paradox of the Upside-Down Kingdom – A Reflection on Matthew 5:5

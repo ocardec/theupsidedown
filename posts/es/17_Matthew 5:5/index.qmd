@@ -2,10 +2,7 @@
 title: 'Bienaventurados los Humildes'
 image: ../../img/meek.webp
 date: "2024-07-02"
-categories:
-  - Humildad
-  - Quebrantamiento
-  - Bienaventuranzas
+categories: [Humildad, Sacrificio, Bienaventuranzas]
 ---
 
 ## La Buena Vida Pertenece a Los Humildes: La Paradoja del Reino Invertido de Dios – Una Reflexión Basada en Mateo 5:5

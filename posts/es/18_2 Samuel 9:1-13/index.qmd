@@ -2,10 +2,7 @@
 title: 'El Lisiado Tiene Lugar en la Mesa'
 image: ../../img/mephibosheth.webp
 date: "2024-07-09"
-categories:
-  - Amor
-  - Reino
-  - Gracia
+categories: [Amor, Bendición, Felicidad]
 ---
 
 ## El Invalido Tiene Lugar en la Mesa - Una Reflexión Basada en 2 Samuel 9:1-13

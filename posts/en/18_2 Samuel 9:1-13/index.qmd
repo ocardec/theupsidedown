@@ -2,10 +2,7 @@
 title: 'The Crippled Seats at the Table'
 image: ../../img/mephibosheth.webp
 date: "2024-07-09"
-categories:
-  - Love
-  - Kingdom
-  - Grace
+categories: [Love, Redemption, Grace]
 editor: visual
 draft: false
 ---
