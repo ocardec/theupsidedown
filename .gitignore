@@ -1,3 +1,8 @@
 /.quarto/
 .Rproj.user
+.RData
+.Rhistory
 
+/_img/
+/_html/
+/docs/
