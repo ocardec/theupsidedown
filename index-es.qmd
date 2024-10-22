@@ -5,7 +5,7 @@ listing:
   type: grid
   contents: /posts/es
   fields: [image, date, title, reading-time, categories]
-  page-size: 6
+  page-size: 9
   categories: true
   sort-ui: false
   filter-ui: false

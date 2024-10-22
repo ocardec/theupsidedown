@@ -45,7 +45,7 @@ website:
 
 project:
   type: website
-  output-dir: _docs
+  output-dir: docs
 
 format:
   html: 
