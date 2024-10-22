@@ -9,5 +9,9 @@
             "ascending": false
         }
     ],
+<<<<<<< HEAD
     "path": "~/Documents/GitHub/theupsidedown/docs/posts"
+=======
+    "path": "~/Documents/GitHub/TheUpsideDown"
+>>>>>>> parent of 6a1ef33 (Re-indexed all posts)
 }

@@ -1,14 +1,18 @@
 {
     "left": {
-        "splitterpos": 240,
+        "splitterpos": 254,
         "topwindowstate": "HIDE",
-        "panelheight": 626,
-        "windowheight": 664
+        "panelheight": 662,
+        "windowheight": 700
     },
     "right": {
+<<<<<<< HEAD
         "splitterpos": 384,
+=======
+        "splitterpos": 408,
+>>>>>>> parent of 6a1ef33 (Re-indexed all posts)
         "topwindowstate": "MINIMIZE",
-        "panelheight": 626,
-        "windowheight": 664
+        "panelheight": 662,
+        "windowheight": 700
     }
 }

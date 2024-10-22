@@ -12,7 +12,7 @@ website:
     logo: /_img/tud_logo2.png
     left:
       - text: "Home"
-        href: index.qmd
+        href: index-en.qmd
       - text: "Information"
         menu: 
           - text: "About"
@@ -26,7 +26,7 @@ website:
       - text: "Español"
         href: index-es.qmd
       - text: "English"
-        href: index.qmd
+        href: index-en.qmd
       - icon: envelope-at
         text: Email
         href: "mailto:admin@theupsidedownblog.com"  
@@ -47,6 +47,27 @@ project:
   type: website
   output-dir: docs
 
+<<<<<<< HEAD
+=======
+profile:
+  default: english
+  group: [english, español]
+  
+language:
+    default: en 
+languages:
+  - id: en
+    label: english
+    dir: posts/en
+    title: "Welcome to the Upside-Down Blog!"
+    profile: english
+
+  - id: es
+    label: español
+    dir: posts/es
+    title: "¡Bienvenidos a el Blog Invertido!"
+    profile: español
+>>>>>>> parent of 6a1ef33 (Re-indexed all posts)
 format:
   html: 
     page-layout: article
