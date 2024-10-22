@@ -3,7 +3,7 @@ title: "Welcome to the Upside-Down Blog!"
 listing:
   sort: "date desc"
   type: grid
-  contents: posts/en
+  contents: /posts/en
   fields: [image, date, title, reading-time, categories]
   page-size: 6
   categories: true

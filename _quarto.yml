@@ -4,12 +4,12 @@ website:
   title: ""
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
   site-url: https://theupsidedownblog.netlify.app
-  favicon: _img/round_logo2.png
+  favicon: /_img/round_logo2.png
   google-analytics: "G-V3QQ28RRMM"
   navbar: 
     pinned: false
     collapse: true
-    logo: _img/tud_logo2.png
+    logo: /_img/tud_logo2.png
     left:
       - text: "Home"
         href: index.qmd
@@ -30,6 +30,7 @@ website:
       - icon: envelope-at
         text: Email
         href: "mailto:admin@theupsidedownblog.com"  
+
   search: 
     location: navbar
     type: textbox
@@ -41,31 +42,11 @@ website:
       <span class="faux-block">Created in&nbsp;<a href="https://quarto.org" target="_blank"><img src="/_img/quarto.png" width="70"></a></span>
     right: |
       <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">Navigate the Way️</a></span>
-      
+
 project:
   type: website
-  output-dir: docs
+  output-dir: _docs
 
-profile:
-  default: english
-  group: [english, español]
-  
-language:
-    default: en 
-    
-languages:
-  - id: en
-    label: english
-    dir: posts/en
-    title: "Welcome to the Upside-Down Blog!"
-    profile: english
-
-  - id: es
-    label: español
-    dir: posts/es
-    title: "¡Bienvenidos a el Blog Invertido!"
-    profile: español
-    
 format:
   html: 
     page-layout: article
