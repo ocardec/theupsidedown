@@ -1,13 +1,13 @@
 ---
 title: "What do I Still Lack?"
-image: images/camel.webp
+image: ../../img/camel.webp
 date: "2024-10-22"
 categories: [Sacrifice, Salvation, Eternity]
 ---
 
 ## What Do I Still Lack? – An Upside Down Kingdom Application on Matthew 19:23-30
 
-![](images/camel.webp){fig-align="center" width="350"}
+![](../../img/camel.webp){fig-align="center" width="350"}
 
 In Matthew 19:23-30, Jesus confronts His disciples with a paradox that reveals the upside-down nature of God’s kingdom:
 
