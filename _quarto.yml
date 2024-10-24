@@ -1,15 +1,16 @@
 #_production
 website:
   reader-mode: true
+  draft-mode: visible
   title: ""
   description: "Welcome to The Upside-Down blog, a place where paradox and mystery come alive in the light of the Gospel."
   site-url: https://theupsidedownblog.netlify.app
-  favicon: /_img/round_logo2.png
+  favicon: img/round_logo2.png
   google-analytics: "G-V3QQ28RRMM"
   navbar: 
     pinned: false
     collapse: true
-    logo: /_img/tud_logo2.png
+    logo: img/tud_logo2.png
     left:
       - text: "Home"
         href: index.qmd
@@ -21,7 +22,7 @@ website:
             href: https://ocardec.netlify.app
             target: _blank
       - text: "References"
-        href: references/referdx.qmd
+        href: referdx.qmd
     right:
       - text: "Español"
         href: index-es.qmd
@@ -30,14 +31,13 @@ website:
       - icon: envelope-at
         text: Email
         href: "mailto:admin@theupsidedownblog.com"  
-
   search: 
     location: navbar
     type: textbox
     
   page-footer:
     right: |
-      <span class="faux-block">&#169; Copyright 2024 Cardec Solutions</span>
+      <span class="faux-block">&#169; Copyright 2024, Cardec Solutions</span>
     left: |
       <div class="bmc-button-container">
         <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ocardec" data-color="#252525" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" >
@@ -52,9 +52,8 @@ website:
       </div>
 
     center: |
-      <span class="faux-block">Created in&nbsp;<a href="https://quarto.org" target="_blank"><img src="/_img/quarto.png" width="70"></a></span>
-      <span class="faux-block">&nbsp; &nbsp;Powered by <a href="https://www.navtheway.com" target="_blank">NTW</a></span>
-
+      <span class="faux-block">Created in &nbsp; <a href="https://quarto.org" target="_blank"><img src="img/quarto.png" width="70"></a></span>
+      <span class="faux-block">&nbsp;&nbsp;Powered by <a href="https://www.navtheway.com" target="_blank">&nbsp;NTW</a> </span>
 
 project:
   type: website
@@ -67,6 +66,6 @@ format:
     theme: 
         dark: darkly
         light: flatly
-    css: _html/styles.css
+    css: html/styles.css
     toc: false 
 editor: source

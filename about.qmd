@@ -2,7 +2,7 @@
 title: "What is The Upside-Down?"
 about:
   template: "solana"
-  image: /_img/tud_logo300.png
+  image: img/tud_logo300.png
   image-shape: rounded
 page-layout: article
 title-block-banner: true
@@ -47,8 +47,8 @@ Oscar Cardec
 
 ### License
 
--   [GNU General Public License](_html/LICENSE){target="_blank"}
+-   [GNU General Public License](html/LICENSE){target="_blank"}
 
 ------------------------------------------------------------------------
 
-<link rel="icon" type="image/png" href="/_img/tud_logo2"/>
+<link rel="icon" type="image/png" href="img/tud_logo2"/>
