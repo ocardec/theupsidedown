@@ -36,12 +36,25 @@ website:
     type: textbox
     
   page-footer:
-    left: |
+    right: |
       <span class="faux-block">&#169; Copyright 2024 Cardec Solutions</span>
+    left: |
+      <div class="bmc-button-container">
+        <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ocardec" data-color="#252525" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" >
+        </script>
+        <style>
+          .bmc-button-container .bmc-button {
+            font-size: 10px !important; 
+            background-color: transparent !important;
+            border: none; 
+          }
+        </style>
+      </div>
+
     center: |
       <span class="faux-block">Created in&nbsp;<a href="https://quarto.org" target="_blank"><img src="/_img/quarto.png" width="70"></a></span>
-    right: |
-      <span class="faux-block">&nbsp; Powered by <a href="https://www.navtheway.com" target="_blank">Navigate the Way️</a></span>
+      <span class="faux-block">&nbsp; &nbsp;Powered by <a href="https://www.navtheway.com" target="_blank">NTW</a></span>
+
 
 project:
   type: website
@@ -50,7 +63,7 @@ project:
 format:
   html: 
     page-layout: article
-    fontsize: 1.1em
+    fontsize: 1.0em
     theme: 
         dark: darkly
         light: flatly
