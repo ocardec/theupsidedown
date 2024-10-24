@@ -3,7 +3,7 @@ title: "Welcome to the Upside-Down Blog!"
 listing:
   sort: "date desc"
   type: grid
-  contents: /posts/en
+  contents: en
   fields: [image, date, title, reading-time, categories]
   page-size: 9
   categories: true
@@ -25,4 +25,4 @@ In the upside-down Kingdom of God, the last are first, the least are greatest, a
 
 <br/>
 
-<link rel="icon" type="image/png" href="/_img/tud_logo2"/>
+<link rel="icon" type="image/png" href="img/tud_logo2"/>
